@@ -29,12 +29,33 @@ if (contactForm) {
         
         // Validate form
         if (!formData.nombre || !formData.email || !formData.asunto || !formData.mensaje) {
-            alert('Por favor, completa todos los campos obligatorios.');
+            // Show inline error message
+            const errorDiv = document.createElement('div');
+            errorDiv.className = 'form-error';
+            errorDiv.style.cssText = 'color: #f56565; background: #fff5f5; padding: 1rem; border-radius: 8px; margin-top: 1rem; border: 1px solid #feb2b2;';
+            errorDiv.textContent = 'Por favor, completa todos los campos obligatorios.';
+            
+            // Remove any existing error message
+            const existingError = contactForm.querySelector('.form-error');
+            if (existingError) existingError.remove();
+            
+            contactForm.appendChild(errorDiv);
+            setTimeout(() => errorDiv.remove(), 5000);
             return;
         }
         
         // Show success message
-        alert('¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.');
+        const successDiv = document.createElement('div');
+        successDiv.className = 'form-success';
+        successDiv.style.cssText = 'color: #38a169; background: #f0fff4; padding: 1rem; border-radius: 8px; margin-top: 1rem; border: 1px solid #9ae6b4;';
+        successDiv.textContent = '¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.';
+        
+        // Remove any existing messages
+        const existingMessages = contactForm.querySelectorAll('.form-error, .form-success');
+        existingMessages.forEach(msg => msg.remove());
+        
+        contactForm.appendChild(successDiv);
+        setTimeout(() => successDiv.remove(), 5000);
         
         // Reset form
         contactForm.reset();
@@ -52,7 +73,7 @@ window.addEventListener('scroll', () => {
     sections.forEach(section => {
         const sectionTop = section.offsetTop;
         const sectionHeight = section.clientHeight;
-        if (window.pageYOffset >= sectionTop - 100) {
+        if (window.scrollY >= sectionTop - 100) {
             current = section.getAttribute('id');
         }
     });
