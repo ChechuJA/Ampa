@@ -2189,7 +2189,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 ---
 # Diapositiva 43
 
-## Cartón 127 ⚠️ REVISAR - Mismo contenido que Cartón 130
+## Cartón 127
 
 1 - 47 Sebastian Yatra - Tacones rojos
 2 - 26 Aitana - Las Babys
@@ -2206,7 +2206,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 128 ⚠️ REVISAR - Mismo contenido que Cartón 131
+## Cartón 128
 
 1 - 8 Alaska - A quien le importa
 2 - 33Proyecto Uno - El Tiburón
@@ -2223,7 +2223,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 129 ⚠️ REVISAR - Mismo contenido que Cartón 132
+## Cartón 129
 
 1 - 28 Shakira - Pa Tipos Como Tú
 2 - 33Proyecto Uno - El Tiburón
