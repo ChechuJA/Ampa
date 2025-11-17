@@ -3,6 +3,7 @@
 Este documento contiene el listado completo de las canciones de todos los cartones del Bingo Musical del AMPA Colegio Peñamiel.
 
 ---
+# Diapositiva 1
 
 ## Cartón 1
 
@@ -54,6 +55,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 38 David Civera - Que la detengan
 
 ---
+# Diapositiva 2
 
 ## Cartón 4
 
@@ -105,6 +107,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 15 Pereza - Princesa
 
 ---
+# Diapositiva 3
 
 ## Cartón 7
 
@@ -156,6 +159,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 28 Shakira - Pa Tipos Como Tú
 
 ---
+# Diapositiva 4
 
 ## Cartón 10
 
@@ -207,6 +211,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 15 Pereza - Princesa
 
 ---
+# Diapositiva 5
 
 ## Cartón 13
 
@@ -258,6 +263,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 47 Sebastian Yatra - Tacones rojos
 
 ---
+# Diapositiva 6
 
 ## Cartón 16
 
@@ -309,6 +315,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 8 Alaska - A quien le importa
 
 ---
+# Diapositiva 7
 
 ## Cartón 19
 
@@ -360,6 +367,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 8
 
 ## Cartón 22
 
@@ -411,6 +419,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 19 Myke Towers - Esa Falda
 
 ---
+# Diapositiva 9
 
 ## Cartón 25
 
@@ -462,6 +471,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 44 David Bisbal - Si Tu la Quieres
 
 ---
+# Diapositiva 10
 
 ## Cartón 28
 
@@ -513,6 +523,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 41 Camela - Cuando zarpa el amor
 
 ---
+# Diapositiva 11
 
 ## Cartón 31
 
@@ -564,6 +575,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 43 El simbolo - Levantando las manos
 
 ---
+# Diapositiva 12
 
 ## Cartón 34
 
@@ -615,6 +627,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 13
 
 ## Cartón 37
 
@@ -666,6 +679,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 14
 
 ## Cartón 40
 
@@ -717,6 +731,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 19 Myke Towers - Esa Falda
 
 ---
+# Diapositiva 15
 
 ## Cartón 43
 
@@ -768,6 +783,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 35 Las ketchup - Asereje
 
 ---
+# Diapositiva 16
 
 ## Cartón 46
 
@@ -819,6 +835,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 27Chocolate Latino - Mayonesa
 
 ---
+# Diapositiva 17
 
 ## Cartón 49
 
@@ -870,8 +887,9 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 18
 
-## Cartón 52
+## Cartón 52 ⚠️ CORREGIR - Duplicado: "18 Amaral - Mis amigos"
 
 1 - 17 Zapato veloz - Tractor amarillo
 2 - 42 Bab Bunny - Yo perreo sola
@@ -905,7 +923,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 54
+## Cartón 54 ⚠️ CORREGIR - Duplicado: "17 Zapato veloz - Tractor amarillo"
 
 1 - 26 Aitana - Las Babys
 2 - 33Proyecto Uno - El Tiburón
@@ -921,6 +939,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 17 Zapato veloz - Tractor amarillo
 
 ---
+# Diapositiva 19
 
 ## Cartón 55
 
@@ -972,6 +991,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 20
 
 ## Cartón 58
 
@@ -1023,6 +1043,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 4 Coyote Dax - No Rompas Más
 
 ---
+# Diapositiva 21
 
 ## Cartón 61
 
@@ -1074,6 +1095,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 35 Las ketchup - Asereje
 
 ---
+# Diapositiva 22
 
 ## Cartón 64
 
@@ -1125,6 +1147,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 28 Shakira - Pa Tipos Como Tú
 
 ---
+# Diapositiva 23
 
 ## Cartón 67
 
@@ -1176,6 +1199,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 20 La pegatina - Maní Carmen
 
 ---
+# Diapositiva 24
 
 ## Cartón 70
 
@@ -1227,6 +1251,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 20 La pegatina - Maní Carmen
 
 ---
+# Diapositiva 25
 
 ## Cartón 73
 
@@ -1278,6 +1303,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 41 Camela - Cuando zarpa el amor
 
 ---
+# Diapositiva 26
 
 ## Cartón 76
 
@@ -1329,6 +1355,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 43 El simbolo - Levantando las manos
 
 ---
+# Diapositiva 27
 
 ## Cartón 79
 
@@ -1380,6 +1407,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 17 Zapato veloz - Tractor amarillo
 
 ---
+# Diapositiva 28
 
 ## Cartón 82
 
@@ -1431,6 +1459,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 28 Shakira - Pa Tipos Como Tú
 
 ---
+# Diapositiva 29
 
 ## Cartón 85
 
@@ -1482,6 +1511,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 32 Melendi - Caminando por la vida
 
 ---
+# Diapositiva 30
 
 ## Cartón 88
 
@@ -1533,6 +1563,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 32 Melendi - Caminando por la vida
 
 ---
+# Diapositiva 31
 
 ## Cartón 91
 
@@ -1551,7 +1582,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 92
+## Cartón 92 ⚠️ CORREGIR - Duplicado: "1 Los Del Rio - La Macarena"
 
 1 - 34 Estopa - Por la Raja de tu Falda
 2 - 47 Sebastian Yatra - Tacones rojos
@@ -1584,8 +1615,9 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 41 Camela - Cuando zarpa el amor
 
 ---
+# Diapositiva 32
 
-## Cartón 94
+## Cartón 94 ⚠️ CORREGIR - Duplicado: "47 Sebastian Yatra - Tacones rojos"
 
 1 - 47 Sebastian Yatra - Tacones rojos
 2 - 22 Daddy Yankee - Gasolina
@@ -1602,7 +1634,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 95
+## Cartón 95 ⚠️ CORREGIR - Duplicado: "47 Sebastian Yatra - Tacones rojos"
 
 1 - 41 Camela - Cuando zarpa el amor
 2 - 36 Karol G - Si antes te hubiera conocido
@@ -1635,6 +1667,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 33
 
 ## Cartón 97
 
@@ -1686,6 +1719,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 47 Sebastian Yatra - Tacones rojos
 
 ---
+# Diapositiva 34
 
 ## Cartón 100
 
@@ -1721,7 +1755,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 102
+## Cartón 102 ⚠️ CORREGIR - Duplicado: "23 King Africa - Paquito el Chocolatero"
 
 1 - 23 King Africa - Paquito el Chocolatero
 2 - 16 Izal - La Mujer de Verde
@@ -1737,6 +1771,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 35
 
 ## Cartón 103
 
@@ -1788,6 +1823,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 42 Bab Bunny - Yo perreo sola
 
 ---
+# Diapositiva 36
 
 ## Cartón 106
 
@@ -1839,8 +1875,9 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 37
 
-## Cartón 109
+## Cartón 109 ⚠️ CORREGIR - Duplicado: "32 Melendi - Caminando por la vida"
 
 1 - 16 Izal - La Mujer de Verde
 2 - 20 La pegatina - Maní Carmen
@@ -1890,6 +1927,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 38
 
 ## Cartón 112
 
@@ -1925,7 +1963,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 114
+## Cartón 114 ⚠️ CORREGIR - Duplicado: "21 Gente de zona - La Gozadera"
 
 1 - 13 Nino Bravo - Libre
 2 - 42 Bab Bunny - Yo perreo sola
@@ -1941,6 +1979,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 33Proyecto Uno - El Tiburón
 
 ---
+# Diapositiva 39
 
 ## Cartón 115
 
@@ -1992,6 +2031,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 41 Camela - Cuando zarpa el amor
 
 ---
+# Diapositiva 40
 
 ## Cartón 118
 
@@ -2043,6 +2083,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 22 Daddy Yankee - Gasolina
 
 ---
+# Diapositiva 41
 
 ## Cartón 121
 
@@ -2094,6 +2135,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 30 José Luis Perales - Un Velero Llamado Libertad
 
 ---
+# Diapositiva 42
 
 ## Cartón 124
 
@@ -2145,6 +2187,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 42 Bab Bunny - Yo perreo sola
 
 ---
+# Diapositiva 43
 
 ## Cartón 127
 
@@ -2196,4 +2239,367 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 47 Sebastian Yatra - Tacones rojos
 
 ---
+# Diapositiva 44
 
+## Cartón 130
+
+1 - 29 Luck Ra - La morocha
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 1 Los Del Rio - La Macarena
+4 - 14 Don Omar - Danza Kuduro
+5 - 33Proyecto Uno - El Tiburón
+6 - 4 Coyote Dax - No Rompas Más
+7 - 3 El Consorcio - El Chacacha del Tren
+8 - 18 Amaral - Mis amigos
+9 - 12 Joaquín Sabina - Y nos dieron las 10
+10 - 25 Los refrescos - Aquí no hay playa
+11 - 38 David Civera - Que la detengan
+12 - 10 CNCO - Reguetón Lento
+
+---
+
+## Cartón 131
+
+1 - 36 Karol G - Si antes te hubiera conocido
+2 - 27Chocolate Latino - Mayonesa
+3 - 19 Myke Towers - Esa Falda
+4 - 1 Los Del Rio - La Macarena
+5 - 10 CNCO - Reguetón Lento
+6 - 7 Raphael - Mi gran noche
+7 - 29 Luck Ra - La morocha
+8 - 33Proyecto Uno - El Tiburón
+9 - 12 Joaquín Sabina - Y nos dieron las 10
+10 - 23 King Africa - Paquito el Chocolatero
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 42 Bab Bunny - Yo perreo sola
+
+---
+
+## Cartón 132
+
+1 - 26 Aitana - Las Babys
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 8 Alaska - A quien le importa
+4 - 5 Isabel Aaiun - El himno de mi peña
+5 - 27Chocolate Latino - Mayonesa
+6 - 24 El Canto del Loco - Zapatillas
+7 - 10 CNCO - Reguetón Lento
+8 - 19 Myke Towers - Esa Falda
+9 - 44 David Bisbal - Si Tu la Quieres
+10 - 36 Karol G - Si antes te hubiera conocido
+11 - 4 Coyote Dax - No Rompas Más
+12 - 30 José Luis Perales - Un Velero Llamado Libertad
+
+---
+# Diapositiva 45
+
+## Cartón 133
+
+1 - 9 Radio Futura - Escuela de Calor
+2 - 35 Las ketchup - Asereje
+3 - 18 Amaral - Mis amigos
+4 - 28 Shakira - Pa Tipos Como Tú
+5 - 42 Bab Bunny - Yo perreo sola
+6 - 43 El simbolo - Levantando las manos
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 23 King Africa - Paquito el Chocolatero
+9 - 25 Los refrescos - Aquí no hay playa
+10 - 19 Myke Towers - Esa Falda
+11 - 29 Luck Ra - La morocha
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 134
+
+1 - 41 Camela - Cuando zarpa el amor
+2 - 8 Alaska - A quien le importa
+3 - 35 Las ketchup - Asereje
+4 - 16 Izal - La Mujer de Verde
+5 - 10 CNCO - Reguetón Lento
+6 - 11 Baby Lores - La mujer del pelotero
+7 - 27Chocolate Latino - Mayonesa
+8 - 2 La Oreja de Van Gogh - Rosas
+9 - 4 Coyote Dax - No Rompas Más
+10 - 21 Gente de zona - La Gozadera
+11 - 43 El simbolo - Levantando las manos
+12 - 29 Luck Ra - La morocha
+
+---
+
+## Cartón 135
+
+1 - 35 Las ketchup - Asereje
+2 - 6 Georgie Dann - La Barbacoa
+3 - 20 La pegatina - Maní Carmen
+4 - 27Chocolate Latino - Mayonesa
+5 - 43 El simbolo - Levantando las manos
+6 - 8 Alaska - A quien le importa
+7 - 12 Joaquín Sabina - Y nos dieron las 10
+8 - 44 David Bisbal - Si Tu la Quieres
+9 - 18 Amaral - Mis amigos
+10 - 21 Gente de zona - La Gozadera
+11 - 7 Raphael - Mi gran noche
+12 - 29 Luck Ra - La morocha
+
+---
+# Diapositiva 46
+
+## Cartón 136
+
+1 - 17 Zapato veloz - Tractor amarillo
+2 - 18 Amaral - Mis amigos
+3 - 32 Melendi - Caminando por la vida
+4 - 30 José Luis Perales - Un Velero Llamado Libertad
+5 - 24 El Canto del Loco - Zapatillas
+6 - 45 King Africa - Bomba
+7 - 34 Estopa - Por la Raja de tu Falda
+8 - 8 Alaska - A quien le importa
+9 - 38 David Civera - Que la detengan
+10 - 28 Shakira - Pa Tipos Como Tú
+11 - 13 Nino Bravo - Libre
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 137
+
+1 - 38 David Civera - Que la detengan
+2 - 45 King Africa - Bomba
+3 - 18 Amaral - Mis amigos
+4 - 33Proyecto Uno - El Tiburón
+5 - 12 Joaquín Sabina - Y nos dieron las 10
+6 - 7 Raphael - Mi gran noche
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 43 El simbolo - Levantando las manos
+9 - 34 Estopa - Por la Raja de tu Falda
+10 - 23 King Africa - Paquito el Chocolatero
+11 - 21 Gente de zona - La Gozadera
+12 - 42 Bab Bunny - Yo perreo sola
+
+---
+
+## Cartón 138
+
+1 - 38 David Civera - Que la detengan
+2 - 12 Joaquín Sabina - Y nos dieron las 10
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 42 Bab Bunny - Yo perreo sola
+5 - 18 Amaral - Mis amigos
+6 - 21 Gente de zona - La Gozadera
+7 - 10 CNCO - Reguetón Lento
+8 - 43 El simbolo - Levantando las manos
+9 - 34 Estopa - Por la Raja de tu Falda
+10 - 23 King Africa - Paquito el Chocolatero
+11 - 31 Lola Indigo - La reina
+12 - 27Chocolate Latino - Mayonesa
+
+---
+# Diapositiva 47
+
+## Cartón 139
+
+1 - 42 Bab Bunny - Yo perreo sola
+2 - 33Proyecto Uno - El Tiburón
+3 - 10 CNCO - Reguetón Lento
+4 - 21 Gente de zona - La Gozadera
+5 - 15 Pereza - Princesa
+6 - 45 King Africa - Bomba
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 36 Karol G - Si antes te hubiera conocido
+9 - 38 David Civera - Que la detengan
+10 - 17 Zapato veloz - Tractor amarillo
+11 - 28 Shakira - Pa Tipos Como Tú
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 140
+
+1 - 1 Los Del Rio - La Macarena
+2 - 15 Pereza - Princesa
+3 - 42 Bab Bunny - Yo perreo sola
+4 - 8 Alaska - A quien le importa
+5 - 31 Lola Indigo - La reina
+6 - 10 CNCO - Reguetón Lento
+7 - 36 Karol G - Si antes te hubiera conocido
+8 - 42 King Africa - Bomba
+9 - 26 Aitana - Las Babys
+10 - 27Chocolate Latino - Mayonesa
+11 - 21 Gente de zona - La Gozadera
+12 - 25 Los refrescos - Aquí no hay playa
+
+---
+
+## Cartón 141
+
+1 - 38 David Civera - Que la detengan
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 27Chocolate Latino - Mayonesa
+5 - 9 Radio Futura - Escuela de Calor
+6 - 24 El Canto del Loco - Zapatillas
+7 - 7 Raphael - Mi gran noche
+8 - 43 El simbolo - Levantando las manos
+9 - 44 David Bisbal - Si Tu la Quieres
+10 - 33Proyecto Uno - El Tiburón
+11 - 4 Coyote Dax - No Rompas Más
+12 - 36 Karol G - Si antes te hubiera conocido
+
+---
+# Diapositiva 48
+
+## Cartón 142
+
+1 - 43 El simbolo - Levantando las manos
+2 - 25 Los refrescos - Aquí no hay playa
+3 - 18 Amaral - Mis amigos
+4 - 38 David Civera - Que la detengan
+5 - 32 Melendi - Caminando por la vida
+6 - 45 King Africa - Bomba
+7 - 33Proyecto Uno - El Tiburón
+8 - 36 Karol G - Si antes te hubiera conocido
+9 - 13 Nino Bravo - Libre
+10 - 8 Alaska - A quien le importa
+11 - 12 Joaquín Sabina - Y nos dieron las 10
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 143
+
+1 - 13 Nino Bravo - Libre
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 32 Melendi - Caminando por la vida
+4 - 28 Shakira - Pa Tipos Como Tú
+5 - 31 Lola Indigo - La reina
+6 - 7 Raphael - Mi gran noche
+7 - 16 Izal - La Mujer de Verde
+8 - 38 David Civera - Que la detengan
+9 - 25 Los refrescos - Aquí no hay playa
+10 - 5 Isabel Aaiun - El himno de mi peña
+11 - 36 Karol G - Si antes te hubiera conocido
+12 - 26 Aitana - Las Babys
+
+---
+
+## Cartón 144
+
+1 - 25 Los refrescos - Aquí no hay playa
+2 - 33Proyecto Uno - El Tiburón
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 8 Alaska - A quien le importa
+5 - 32 Melendi - Caminando por la vida
+6 - 24 El Canto del Loco - Zapatillas
+7 - 12 Joaquín Sabina - Y nos dieron las 10
+8 - 26 Aitana - Las Babys
+9 - 17 Zapato veloz - Tractor amarillo
+10 - 36 Karol G - Si antes te hubiera conocido
+11 - 9 Radio Futura - Escuela de Calor
+12 - 30 José Luis Perales - Un Velero Llamado Libertad
+
+---
+# Diapositiva 49
+
+## Cartón 145
+
+1 - 42 King Africa - Bomba
+2 - 30 José Luis Perales - Un Velero Llamado Libertad
+3 - 32 Melendi - Caminando por la vida
+4 - 19 Myke Towers - Esa Falda
+5 - 15 Pereza - Princesa
+6 - 45 King Africa - Bomba
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 42 Bab Bunny - Yo perreo sola
+9 - 38 David Civera - Que la detengan
+10 - 25 Los refrescos - Aquí no hay playa
+11 - 36 Karol G - Si antes te hubiera conocido
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 146
+
+1 - 42 King Africa - Bomba
+2 - 15 Pereza - Princesa
+3 - 30 José Luis Perales - Un Velero Llamado Libertad
+4 - 5 Isabel Aaiun - El himno de mi peña
+5 - 31 Lola Indigo - La reina
+6 - 7 Raphael - Mi gran noche
+7 - 29 Luck Ra - La morocha
+8 - 10 CNCO - Reguetón Lento
+9 - 21 Gente de zona - La Gozadera
+10 - 24 El Canto del Loco - Zapatillas
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 36 Karol G - Si antes te hubiera conocido
+
+---
+
+## Cartón 147
+
+1 - 42 Bab Bunny - Yo perreo sola
+2 - 28 Shakira - Pa Tipos Como Tú
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 1 Los Del Rio - La Macarena
+5 - 42 King Africa - Bomba
+6 - 30 José Luis Perales - Un Velero Llamado Libertad
+7 - 36 Karol G - Si antes te hubiera conocido
+8 - 16 Izal - La Mujer de Verde
+9 - 27Chocolate Latino - Mayonesa
+10 - 33Proyecto Uno - El Tiburón
+11 - 8 Alaska - A quien le importa
+12 - 26 Aitana - Las Babys
+
+---
+# Diapositiva 50
+
+## Cartón 148 ⚠️ CORREGIR - Duplicado: "1 Los Del Rio - La Macarena"
+
+1 - 17 Zapato veloz - Tractor amarillo
+2 - 20 La pegatina - Maní Carmen
+3 - 21 Gente de zona - La Gozadera
+4 - 36 Karol G - Si antes te hubiera conocido
+5 - 1 Los Del Rio - La Macarena
+6 - 11 Baby Lores - La mujer del pelotero
+7 - 8 Alaska - A quien le importa
+8 - 33Proyecto Uno - El Tiburón
+9 - 13 Nino Bravo - Libre
+10 - 25 Los refrescos - Aquí no hay playa
+11 - 24 El Canto del Loco - Zapatillas
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 149
+
+1 - 41 Camela - Cuando zarpa el amor
+2 - 1 Los Del Rio - La Macarena
+3 - 5 Isabel Aaiun - El himno de mi peña
+4 - 18 Amaral - Mis amigos
+5 - 31 Lola Indigo - La reina
+6 - 7 Raphael - Mi gran noche
+7 - 3 El Consorcio - El Chacacha del Tren
+8 - 28 Shakira - Pa Tipos Como Tú
+9 - 26 Aitana - Las Babys
+10 - 42 Bab Bunny - Yo perreo sola
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 19 Myke Towers - Esa Falda
+
+---
+
+## Cartón 150
+
+1 - 26 Aitana - Las Babys
+2 - 33Proyecto Uno - El Tiburón
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 13 Nino Bravo - Libre
+5 - 29 Luck Ra - La morocha
+6 - 43 El simbolo - Levantando las manos
+7 - 18 Amaral - Mis amigos
+8 - 28 Shakira - Pa Tipos Como Tú
+9 - 44 David Bisbal - Si Tu la Quieres
+10 - 36 Karol G - Si antes te hubiera conocido
+11 - 4 Coyote Dax - No Rompas Más
+12 - 1 Los Del Rio - La Macarena
+
+---
