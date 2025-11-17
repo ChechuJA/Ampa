@@ -3,6 +3,7 @@
 Este documento contiene el listado completo de las canciones de todos los cartones del Bingo Musical del AMPA Colegio Peñamiel.
 
 ---
+# Diapositiva 1
 
 ## Cartón 1
 
@@ -54,6 +55,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 38 David Civera - Que la detengan
 
 ---
+# Diapositiva 2
 
 ## Cartón 4
 
@@ -105,6 +107,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 15 Pereza - Princesa
 
 ---
+# Diapositiva 3
 
 ## Cartón 7
 
@@ -156,6 +159,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 12 - 28 Shakira - Pa Tipos Como Tú
 
 ---
+# Diapositiva 4
 
 ## Cartón 10
 
@@ -2454,57 +2458,6 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ## Cartón 145
 
-1 - 29 Luck Ra - La morocha
-2 - 42 Bab Bunny - Yo perreo sola
-3 - 1 Los Del Rio - La Macarena
-4 - 14 Don Omar - Danza Kuduro
-5 - 33Proyecto Uno - El Tiburón
-6 - 4 Coyote Dax - No Rompas Más
-7 - 3 El Consorcio - El Chacacha del Tren
-8 - 18 Amaral - Mis amigos
-9 - 12 Joaquín Sabina - Y nos dieron las 10
-10 - 25 Los refrescos - Aquí no hay playa
-11 - 38 David Civera - Que la detengan
-12 - 10 CNCO - Reguetón Lento
-
----
-
-## Cartón 146
-
-1 - 36 Karol G - Si antes te hubiera conocido
-2 - 27Chocolate Latino - Mayonesa
-3 - 19 Myke Towers - Esa Falda
-4 - 1 Los Del Rio - La Macarena
-5 - 10 CNCO - Reguetón Lento
-6 - 7 Raphael - Mi gran noche
-7 - 29 Luck Ra - La morocha
-8 - 33Proyecto Uno - El Tiburón
-9 - 12 Joaquín Sabina - Y nos dieron las 10
-10 - 23 King Africa - Paquito el Chocolatero
-11 - 17 Zapato veloz - Tractor amarillo
-12 - 42 Bab Bunny - Yo perreo sola
-
----
-
-## Cartón 147
-
-1 - 26 Aitana - Las Babys
-2 - 42 Bab Bunny - Yo perreo sola
-3 - 8 Alaska - A quien le importa
-4 - 5 Isabel Aaiun - El himno de mi peña
-5 - 27Chocolate Latino - Mayonesa
-6 - 24 El Canto del Loco - Zapatillas
-7 - 10 CNCO - Reguetón Lento
-8 - 19 Myke Towers - Esa Falda
-9 - 44 David Bisbal - Si Tu la Quieres
-10 - 36 Karol G - Si antes te hubiera conocido
-11 - 4 Coyote Dax - No Rompas Más
-12 - 30 José Luis Perales - Un Velero Llamado Libertad
-
----
-
-## Cartón 148
-
 1 - 42 King Africa - Bomba
 2 - 30 José Luis Perales - Un Velero Llamado Libertad
 3 - 32 Melendi - Caminando por la vida
@@ -2520,7 +2473,7 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
-## Cartón 149
+## Cartón 146
 
 1 - 42 King Africa - Bomba
 2 - 15 Pereza - Princesa
@@ -2530,14 +2483,31 @@ Este documento contiene el listado completo de las canciones de todos los carton
 6 - 7 Raphael - Mi gran noche
 7 - 29 Luck Ra - La morocha
 8 - 10 CNCO - Reguetón Lento
-9 - 17 Zapato veloz - Tractor amarillo
+9 - 21 Gente de zona - La Gozadera
 10 - 24 El Canto del Loco - Zapatillas
-11 - 36 Karol G - Si antes te hubiera conocido
-12 - 21 Gente de zona - La Gozadera
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 36 Karol G - Si antes te hubiera conocido
 
 ---
 
-## Cartón 150
+## Cartón 147
+
+1 - 42 Bab Bunny - Yo perreo sola
+2 - 28 Shakira - Pa Tipos Como Tú
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 1 Los Del Rio - La Macarena
+5 - 42 King Africa - Bomba
+6 - 30 José Luis Perales - Un Velero Llamado Libertad
+7 - 36 Karol G - Si antes te hubiera conocido
+8 - 16 Izal - La Mujer de Verde
+9 - 27Chocolate Latino - Mayonesa
+10 - 33Proyecto Uno - El Tiburón
+11 - 8 Alaska - A quien le importa
+12 - 26 Aitana - Las Babys
+
+---
+
+## Cartón 148
 
 1 - 17 Zapato veloz - Tractor amarillo
 2 - 20 La pegatina - Maní Carmen
@@ -2550,6 +2520,40 @@ Este documento contiene el listado completo de las canciones de todos los carton
 9 - 13 Nino Bravo - Libre
 10 - 25 Los refrescos - Aquí no hay playa
 11 - 24 El Canto del Loco - Zapatillas
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 149
+
+1 - 41 Camela - Cuando zarpa el amor
+2 - 1 Los Del Rio - La Macarena
+3 - 5 Isabel Aaiun - El himno de mi peña
+4 - 18 Amaral - Mis amigos
+5 - 31 Lola Indigo - La reina
+6 - 7 Raphael - Mi gran noche
+7 - 3 El Consorcio - El Chacacha del Tren
+8 - 28 Shakira - Pa Tipos Como Tú
+9 - 26 Aitana - Las Babys
+10 - 42 Bab Bunny - Yo perreo sola
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 19 Myke Towers - Esa Falda
+
+---
+
+## Cartón 150
+
+1 - 26 Aitana - Las Babys
+2 - 33Proyecto Uno - El Tiburón
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 13 Nino Bravo - Libre
+5 - 29 Luck Ra - La morocha
+6 - 43 El simbolo - Levantando las manos
+7 - 18 Amaral - Mis amigos
+8 - 28 Shakira - Pa Tipos Como Tú
+9 - 44 David Bisbal - Si Tu la Quieres
+10 - 36 Karol G - Si antes te hubiera conocido
+11 - 4 Coyote Dax - No Rompas Más
 12 - 1 Los Del Rio - La Macarena
 
 ---
