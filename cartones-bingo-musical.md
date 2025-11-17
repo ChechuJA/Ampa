@@ -2197,3 +2197,360 @@ Este documento contiene el listado completo de las canciones de todos los carton
 
 ---
 
+## Cartón 130
+
+1 - 47 Sebastian Yatra - Tacones rojos
+2 - 26 Aitana - Las Babys
+3 - 8 Alaska - A quien le importa
+4 - 4 Coyote Dax - No Rompas Más
+5 - 39 Paulina Rubio - Y yo sigo aquí
+6 - 45 King Africa - Bomba
+7 - 41 Camela - Cuando zarpa el amor
+8 - 19 Myke Towers - Esa Falda
+9 - 12 Joaquín Sabina - Y nos dieron las 10
+10 - 31 Lola Indigo - La reina
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 10 CNCO - Reguetón Lento
+
+---
+
+## Cartón 131
+
+1 - 8 Alaska - A quien le importa
+2 - 33Proyecto Uno - El Tiburón
+3 - 47 Sebastian Yatra - Tacones rojos
+4 - 13 Nino Bravo - Libre
+5 - 45 King Africa - Bomba
+6 - 29 Luck Ra - La morocha
+7 - 24 El Canto del Loco - Zapatillas
+8 - 10 CNCO - Reguetón Lento
+9 - 23 King Africa - Paquito el Chocolatero
+10 - 17 Zapato veloz - Tractor amarillo
+11 - 4 Coyote Dax - No Rompas Más
+12 - 39 Paulina Rubio - Y yo sigo aquí
+
+---
+
+## Cartón 132
+
+1 - 28 Shakira - Pa Tipos Como Tú
+2 - 33Proyecto Uno - El Tiburón
+3 - 29 Luck Ra - La morocha
+4 - 45 King Africa - Bomba
+5 - 21 Gente de zona - La Gozadera
+6 - 13 Nino Bravo - Libre
+7 - 12 Joaquín Sabina - Y nos dieron las 10
+8 - 15 Pereza - Princesa
+9 - 23 King Africa - Paquito el Chocolatero
+10 - 2 La Oreja de Van Gogh - Rosas
+11 - 44 David Bisbal - Si Tu la Quieres
+12 - 47 Sebastian Yatra - Tacones rojos
+
+---
+
+## Cartón 133
+
+1 - 9 Radio Futura - Escuela de Calor
+2 - 35 Las ketchup - Asereje
+3 - 18 Amaral - Mis amigos
+4 - 28 Shakira - Pa Tipos Como Tú
+5 - 42 Bab Bunny - Yo perreo sola
+6 - 43 El simbolo - Levantando las manos
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 23 King Africa - Paquito el Chocolatero
+9 - 25 Los refrescos - Aquí no hay playa
+10 - 19 Myke Towers - Esa Falda
+11 - 29 Luck Ra - La morocha
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 134
+
+1 - 41 Camela - Cuando zarpa el amor
+2 - 8 Alaska - A quien le importa
+3 - 35 Las ketchup - Asereje
+4 - 16 Izal - La Mujer de Verde
+5 - 10 CNCO - Reguetón Lento
+6 - 11 Baby Lores - La mujer del pelotero
+7 - 27Chocolate Latino - Mayonesa
+8 - 2 La Oreja de Van Gogh - Rosas
+9 - 4 Coyote Dax - No Rompas Más
+10 - 21 Gente de zona - La Gozadera
+11 - 43 El simbolo - Levantando las manos
+12 - 29 Luck Ra - La morocha
+
+---
+
+## Cartón 135
+
+1 - 35 Las ketchup - Asereje
+2 - 6 Georgie Dann - La Barbacoa
+3 - 20 La pegatina - Maní Carmen
+4 - 27Chocolate Latino - Mayonesa
+5 - 43 El simbolo - Levantando las manos
+6 - 8 Alaska - A quien le importa
+7 - 12 Joaquín Sabina - Y nos dieron las 10
+8 - 44 David Bisbal - Si Tu la Quieres
+9 - 18 Amaral - Mis amigos
+10 - 21 Gente de zona - La Gozadera
+11 - 7 Raphael - Mi gran noche
+12 - 29 Luck Ra - La morocha
+
+---
+
+## Cartón 136
+
+1 - 17 Zapato veloz - Tractor amarillo
+2 - 18 Amaral - Mis amigos
+3 - 32 Melendi - Caminando por la vida
+4 - 30 José Luis Perales - Un Velero Llamado Libertad
+5 - 24 El Canto del Loco - Zapatillas
+6 - 45 King Africa - Bomba
+7 - 34 Estopa - Por la Raja de tu Falda
+8 - 8 Alaska - A quien le importa
+9 - 38 David Civera - Que la detengan
+10 - 28 Shakira - Pa Tipos Como Tú
+11 - 13 Nino Bravo - Libre
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 137
+
+1 - 38 David Civera - Que la detengan
+2 - 45 King Africa - Bomba
+3 - 18 Amaral - Mis amigos
+4 - 33Proyecto Uno - El Tiburón
+5 - 12 Joaquín Sabina - Y nos dieron las 10
+6 - 7 Raphael - Mi gran noche
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 43 El simbolo - Levantando las manos
+9 - 34 Estopa - Por la Raja de tu Falda
+10 - 23 King Africa - Paquito el Chocolatero
+11 - 21 Gente de zona - La Gozadera
+12 - 42 Bab Bunny - Yo perreo sola
+
+---
+
+## Cartón 138
+
+1 - 38 David Civera - Que la detengan
+2 - 12 Joaquín Sabina - Y nos dieron las 10
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 42 Bab Bunny - Yo perreo sola
+5 - 18 Amaral - Mis amigos
+6 - 21 Gente de zona - La Gozadera
+7 - 10 CNCO - Reguetón Lento
+8 - 43 El simbolo - Levantando las manos
+9 - 34 Estopa - Por la Raja de tu Falda
+10 - 23 King Africa - Paquito el Chocolatero
+11 - 31 Lola Indigo - La reina
+12 - 27Chocolate Latino - Mayonesa
+
+---
+
+## Cartón 139
+
+1 - 42 Bab Bunny - Yo perreo sola
+2 - 33Proyecto Uno - El Tiburón
+3 - 10 CNCO - Reguetón Lento
+4 - 21 Gente de zona - La Gozadera
+5 - 15 Pereza - Princesa
+6 - 45 King Africa - Bomba
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 36 Karol G - Si antes te hubiera conocido
+9 - 38 David Civera - Que la detengan
+10 - 17 Zapato veloz - Tractor amarillo
+11 - 28 Shakira - Pa Tipos Como Tú
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 140
+
+1 - 1 Los Del Rio - La Macarena
+2 - 15 Pereza - Princesa
+3 - 42 Bab Bunny - Yo perreo sola
+4 - 8 Alaska - A quien le importa
+5 - 31 Lola Indigo - La reina
+6 - 10 CNCO - Reguetón Lento
+7 - 36 Karol G - Si antes te hubiera conocido
+8 - 42 King Africa - Bomba
+9 - 26 Aitana - Las Babys
+10 - 27Chocolate Latino - Mayonesa
+11 - 21 Gente de zona - La Gozadera
+12 - 25 Los refrescos - Aquí no hay playa
+
+---
+
+## Cartón 141
+
+1 - 38 David Civera - Que la detengan
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 27Chocolate Latino - Mayonesa
+5 - 9 Radio Futura - Escuela de Calor
+6 - 24 El Canto del Loco - Zapatillas
+7 - 7 Raphael - Mi gran noche
+8 - 43 El simbolo - Levantando las manos
+9 - 44 David Bisbal - Si Tu la Quieres
+10 - 33Proyecto Uno - El Tiburón
+11 - 4 Coyote Dax - No Rompas Más
+12 - 36 Karol G - Si antes te hubiera conocido
+
+---
+
+## Cartón 142
+
+1 - 43 El simbolo - Levantando las manos
+2 - 25 Los refrescos - Aquí no hay playa
+3 - 18 Amaral - Mis amigos
+4 - 38 David Civera - Que la detengan
+5 - 32 Melendi - Caminando por la vida
+6 - 45 King Africa - Bomba
+7 - 33Proyecto Uno - El Tiburón
+8 - 36 Karol G - Si antes te hubiera conocido
+9 - 13 Nino Bravo - Libre
+10 - 8 Alaska - A quien le importa
+11 - 12 Joaquín Sabina - Y nos dieron las 10
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 143
+
+1 - 13 Nino Bravo - Libre
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 32 Melendi - Caminando por la vida
+4 - 28 Shakira - Pa Tipos Como Tú
+5 - 31 Lola Indigo - La reina
+6 - 7 Raphael - Mi gran noche
+7 - 16 Izal - La Mujer de Verde
+8 - 38 David Civera - Que la detengan
+9 - 25 Los refrescos - Aquí no hay playa
+10 - 5 Isabel Aaiun - El himno de mi peña
+11 - 36 Karol G - Si antes te hubiera conocido
+12 - 26 Aitana - Las Babys
+
+---
+
+## Cartón 144
+
+1 - 25 Los refrescos - Aquí no hay playa
+2 - 33Proyecto Uno - El Tiburón
+3 - 3 El Consorcio - El Chacacha del Tren
+4 - 8 Alaska - A quien le importa
+5 - 32 Melendi - Caminando por la vida
+6 - 24 El Canto del Loco - Zapatillas
+7 - 12 Joaquín Sabina - Y nos dieron las 10
+8 - 26 Aitana - Las Babys
+9 - 17 Zapato veloz - Tractor amarillo
+10 - 36 Karol G - Si antes te hubiera conocido
+11 - 9 Radio Futura - Escuela de Calor
+12 - 30 José Luis Perales - Un Velero Llamado Libertad
+
+---
+
+## Cartón 145
+
+1 - 29 Luck Ra - La morocha
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 1 Los Del Rio - La Macarena
+4 - 14 Don Omar - Danza Kuduro
+5 - 33Proyecto Uno - El Tiburón
+6 - 4 Coyote Dax - No Rompas Más
+7 - 3 El Consorcio - El Chacacha del Tren
+8 - 18 Amaral - Mis amigos
+9 - 12 Joaquín Sabina - Y nos dieron las 10
+10 - 25 Los refrescos - Aquí no hay playa
+11 - 38 David Civera - Que la detengan
+12 - 10 CNCO - Reguetón Lento
+
+---
+
+## Cartón 146
+
+1 - 36 Karol G - Si antes te hubiera conocido
+2 - 27Chocolate Latino - Mayonesa
+3 - 19 Myke Towers - Esa Falda
+4 - 1 Los Del Rio - La Macarena
+5 - 10 CNCO - Reguetón Lento
+6 - 7 Raphael - Mi gran noche
+7 - 29 Luck Ra - La morocha
+8 - 33Proyecto Uno - El Tiburón
+9 - 12 Joaquín Sabina - Y nos dieron las 10
+10 - 23 King Africa - Paquito el Chocolatero
+11 - 17 Zapato veloz - Tractor amarillo
+12 - 42 Bab Bunny - Yo perreo sola
+
+---
+
+## Cartón 147
+
+1 - 26 Aitana - Las Babys
+2 - 42 Bab Bunny - Yo perreo sola
+3 - 8 Alaska - A quien le importa
+4 - 5 Isabel Aaiun - El himno de mi peña
+5 - 27Chocolate Latino - Mayonesa
+6 - 24 El Canto del Loco - Zapatillas
+7 - 10 CNCO - Reguetón Lento
+8 - 19 Myke Towers - Esa Falda
+9 - 44 David Bisbal - Si Tu la Quieres
+10 - 36 Karol G - Si antes te hubiera conocido
+11 - 4 Coyote Dax - No Rompas Más
+12 - 30 José Luis Perales - Un Velero Llamado Libertad
+
+---
+
+## Cartón 148
+
+1 - 42 King Africa - Bomba
+2 - 30 José Luis Perales - Un Velero Llamado Libertad
+3 - 32 Melendi - Caminando por la vida
+4 - 19 Myke Towers - Esa Falda
+5 - 15 Pereza - Princesa
+6 - 45 King Africa - Bomba
+7 - 5 Isabel Aaiun - El himno de mi peña
+8 - 42 Bab Bunny - Yo perreo sola
+9 - 38 David Civera - Que la detengan
+10 - 25 Los refrescos - Aquí no hay playa
+11 - 36 Karol G - Si antes te hubiera conocido
+12 - 1 Los Del Rio - La Macarena
+
+---
+
+## Cartón 149
+
+1 - 42 King Africa - Bomba
+2 - 15 Pereza - Princesa
+3 - 30 José Luis Perales - Un Velero Llamado Libertad
+4 - 5 Isabel Aaiun - El himno de mi peña
+5 - 31 Lola Indigo - La reina
+6 - 7 Raphael - Mi gran noche
+7 - 29 Luck Ra - La morocha
+8 - 10 CNCO - Reguetón Lento
+9 - 17 Zapato veloz - Tractor amarillo
+10 - 24 El Canto del Loco - Zapatillas
+11 - 36 Karol G - Si antes te hubiera conocido
+12 - 21 Gente de zona - La Gozadera
+
+---
+
+## Cartón 150
+
+1 - 17 Zapato veloz - Tractor amarillo
+2 - 20 La pegatina - Maní Carmen
+3 - 21 Gente de zona - La Gozadera
+4 - 36 Karol G - Si antes te hubiera conocido
+5 - 1 Los Del Rio - La Macarena
+6 - 11 Baby Lores - La mujer del pelotero
+7 - 8 Alaska - A quien le importa
+8 - 33Proyecto Uno - El Tiburón
+9 - 13 Nino Bravo - Libre
+10 - 25 Los refrescos - Aquí no hay playa
+11 - 24 El Canto del Loco - Zapatillas
+12 - 1 Los Del Rio - La Macarena
+
+---
+
