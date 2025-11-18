@@ -13,12 +13,27 @@ El sitio está desplegado en GitHub Pages: [https://chechuja.github.io/Ampa/](ht
 - **Calendario**: Eventos programados (excursiones, mercadillo navideño, fiesta fin de curso)
 - **Cuotas**: Información sobre las cuotas anuales (2,50 € por niño/a)
 - **Galería**: Fotos de actividades y eventos
+- **Juegos**: Bingo Musical con cartones y canciones descargables
 - **Voluntariado**: Oportunidades para colaborar
 - **Patrocinadores**: Empresas que apoyan al AMPA
 - **Documentos**: Enlaces a formularios y documentación importante
 - **Contacto**: Formulario para ponerse en contacto
 
-## 🎨 Diseño
+## � Bingo Musical
+
+El sitio incluye material completo para jugar al Bingo Musical:
+- **63 cartones** en formato PDF y PowerPoint (versiones original y corregida)
+- **49 canciones** en formato MP3 descargables en ZIP (68MB)
+- Listado completo de canciones con artistas
+- Instrucciones del juego y premios
+
+### Descargas disponibles:
+- [Cartones Corregidos (PDF)](https://github.com/ChechuJA/Ampa/raw/main/documentos/Cartones%20Corregidos.pdf)
+- [Cartones Corregidos (PPTX)](https://github.com/ChechuJA/Ampa/raw/main/documentos/Cartones%20Corregidos.pptx)
+- [Canciones MP3 (ZIP)](https://github.com/ChechuJA/Ampa/raw/main/documentos/canciones-bingo-musical.zip)
+- [Listado de Canciones](recursos/listado-canciones.md)
+
+## �🎨 Diseño
 
 - Diseño responsive (adaptado a móviles y tablets)
 - Colores alegres y familiares
@@ -41,12 +56,46 @@ El sitio se despliega automáticamente en GitHub Pages cuando se hace push a la 
 
 ```
 Ampa/
-├── index.html          # Página principal
-├── styles.css          # Estilos CSS
-├── script.js           # JavaScript para interactividad
-├── .nojekyll          # Evita el procesamiento Jekyll
-└── README.md          # Este archivo
+├── index.html                    # Página principal
+├── styles.css                    # Estilos CSS
+├── script.js                     # JavaScript para interactividad
+├── README.md                     # Este archivo
+├── CNAME                         # Dominio personalizado
+├── .nojekyll                     # Evita procesamiento Jekyll
+├── .gitignore                    # Excluye MP3, incluye ZIP
+│
+├── documentos/                   # Archivos descargables públicos
+│   ├── Cartones Corregidos.pdf
+│   ├── Cartones Corregidos.pptx
+│   ├── Cartones Originales.pdf
+│   ├── Cartones Originales.pptx
+│   └── canciones-bingo-musical.zip  # 49 canciones MP3 (68MB)
+│
+├── recursos/                     # Archivos de referencia
+│   ├── listado-canciones.md      # Listado oficial de canciones
+│   ├── cartones-bingo-musical-corregido.md
+│   ├── cartones-bingo-musical-original.md
+│   ├── listado-mp3.md
+│   ├── cartones-extraidos-pdf.md
+│   └── analisis-canciones.txt
+│
+├── scripts/                      # Scripts Python de utilidad
+│   ├── contar_canciones.py
+│   ├── encontrar_duplicados.py
+│   ├── renombrar_mp3.py
+│   ├── crear_zip_canciones.py
+│   └── otros scripts...
+│
+└── canciones_bingo_mp3/          # Carpeta local con MP3 (no en Git)
+    └── (49 archivos MP3 - excluidos por .gitignore)
 ```
+
+## 🔒 .gitignore
+
+El archivo `.gitignore` está configurado para:
+- ✅ **Excluir** la carpeta `canciones_bingo_mp3/` (archivos MP3 grandes)
+- ✅ **Incluir** el archivo ZIP comprimido en `documentos/`
+- ✅ Excluir archivos temporales, cache de Python, y archivos de sistema
 
 ## 🛠️ Tecnologías utilizadas
 

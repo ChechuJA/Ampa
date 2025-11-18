@@ -1,0 +1,33 @@
+# Archivos MP3 locales (no subir a GitHub)
+canciones_bingo_mp3/
+
+# Mantener el ZIP comprimido
+!documentos/canciones-bingo-musical.zip
+
+# Archivos temporales y de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+~*

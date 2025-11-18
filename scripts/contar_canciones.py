@@ -1,7 +1,7 @@
 import re
 
-# Leer el archivo
-with open('cartones-bingo-musical.md', 'r', encoding='utf-8') as f:
+# Leer el archivo (ahora en la carpeta recursos)
+with open('recursos/cartones-bingo-musical-corregido.md', 'r', encoding='utf-8') as f:
     content = f.read()
 
 # Extraer todas las canciones únicas
