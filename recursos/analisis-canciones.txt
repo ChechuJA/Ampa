@@ -1,0 +1,2062 @@
+====================================================================================================
+AN├üLISIS DE CANCIONES POR ID
+====================================================================================================
+
+ΓÜá∩╕Å  ID 1 tiene 44 variantes:
+   L├¡nea 103: Los Del Rio - La Macarena
+   L├¡nea 153: Los Del Rio - La Macarena
+   L├¡nea 480: Los Del Rio - La Macarena
+   L├¡nea 532: Los Del Rio - La Macarena
+   L├¡nea 584: Los Del Rio - La Macarena
+   L├¡nea 625: Los Del Rio - La Macarena
+   L├¡nea 729: Los Del Rio - La Macarena
+   L├¡nea 833: Los Del Rio - La Macarena
+   L├¡nea 885: Los Del Rio - La Macarena
+   L├¡nea 905: Los Del Rio - La Macarena
+   L├¡nea 969: Los Del Rio - La Macarena
+   L├¡nea 1051: Los Del Rio - La Macarena
+   L├¡nea 1093: Los Del Rio - La Macarena
+   L├¡nea 1177: Los Del Rio - La Macarena
+   L├¡nea 1197: Los Del Rio - La Macarena
+   L├¡nea 1229: Los Del Rio - La Macarena
+   L├¡nea 1301: Los Del Rio - La Macarena
+   L├¡nea 1364: Los Del Rio - La Macarena
+   L├¡nea 1489: Los Del Rio - La Macarena
+   L├¡nea 1578: Los Del Rio - La Macarena
+   L├¡nea 1592: Los Del Rio - La Macarena
+   L├¡nea 1593: Los Del Rio - La Macarena
+   L├¡nea 1645: Los Del Rio - La Macarena
+   L├¡nea 1685: Los Del Rio - La Macarena
+   L├¡nea 1693: Los Del Rio - La Macarena
+   L├¡nea 1801: Los Del Rio - La Macarena
+   L├¡nea 1853: Los Del Rio - La Macarena
+   L├¡nea 1870: Los Del Rio - La Macarena
+   L├¡nea 1945: Los Del Rio - La Macarena
+   L├¡nea 2074: Los Del Rio - La Macarena
+   L├¡nea 2248: Los Del Rio - La Macarena
+   L├¡nea 2266: Los Del Rio - La Macarena
+   L├¡nea 2309: Los Del Rio - La Macarena
+   L├¡nea 2361: Los Del Rio - La Macarena
+   L├¡nea 2413: Los Del Rio - La Macarena
+   L├¡nea 2419: Los Del Rio - La Macarena
+   L├¡nea 2465: Los Del Rio - La Macarena
+   L├¡nea 2517: Los Del Rio - La Macarena
+   L├¡nea 2543: Los Del Rio - La Macarena
+   L├¡nea 2562: Los Del Rio - La Macarena
+   L├¡nea 2569: Los Del Rio - La Macarena
+   L├¡nea 2576: Los Del Rio - La Macarena
+   L├¡nea 2603: Los Del Rio - La Macarena
+   L├¡nea 29: Los Del Rio - Macarena
+
+ΓÜá∩╕Å  ID 2 tiene 34 variantes:
+   L├¡nea 90: La Oreja de Van Gogh - Rosas
+   L├¡nea 158: La Oreja de Van Gogh - Rosas
+   L├¡nea 172: La Oreja de Van Gogh - Rosas
+   L├¡nea 188: La Oreja de Van Gogh - Rosas
+   L├¡nea 210: La Oreja de Van Gogh - Rosas
+   L├¡nea 262: La Oreja de Van Gogh - Rosas
+   L├¡nea 314: La Oreja de Van Gogh - Rosas
+   L├¡nea 348: La Oreja de Van Gogh - Rosas
+   L├¡nea 366: La Oreja de Van Gogh - Rosas
+   L├¡nea 418: La Oreja de Van Gogh - Rosas
+   L├¡nea 470: La Oreja de Van Gogh - Rosas
+   L├¡nea 522: La Oreja de Van Gogh - Rosas
+   L├¡nea 574: La Oreja de Van Gogh - Rosas
+   L├¡nea 678: La Oreja de Van Gogh - Rosas
+   L├¡nea 695: La Oreja de Van Gogh - Rosas
+   L├¡nea 865: La Oreja de Van Gogh - Rosas
+   L├¡nea 938: La Oreja de Van Gogh - Rosas
+   L├¡nea 952: La Oreja de Van Gogh - Rosas
+   L├¡nea 990: La Oreja de Van Gogh - Rosas
+   L├¡nea 1042: La Oreja de Van Gogh - Rosas
+   L├¡nea 1189: La Oreja de Van Gogh - Rosas
+   L├¡nea 1354: La Oreja de Van Gogh - Rosas
+   L├¡nea 1406: La Oreja de Van Gogh - Rosas
+   L├¡nea 1458: La Oreja de Van Gogh - Rosas
+   L├¡nea 1510: La Oreja de Van Gogh - Rosas
+   L├¡nea 1562: La Oreja de Van Gogh - Rosas
+   L├¡nea 1770: La Oreja de Van Gogh - Rosas
+   L├¡nea 1822: La Oreja de Van Gogh - Rosas
+   L├¡nea 1874: La Oreja de Van Gogh - Rosas
+   L├¡nea 1908: La Oreja de Van Gogh - Rosas
+   L├¡nea 2030: La Oreja de Van Gogh - Rosas
+   L├¡nea 2186: La Oreja de Van Gogh - Rosas
+   L├¡nea 2238: La Oreja de Van Gogh - Rosas
+   L├¡nea 2322: La Oreja de Van Gogh - Rosas
+
+ΓÜá∩╕Å  ID 3 tiene 46 variantes:
+   L├¡nea 235: El Consorcio - El Chacacha del Tren
+   L├¡nea 391: El Consorcio - El Chacacha del Tren
+   L├¡nea 443: El Consorcio - El Chacacha del Tren
+   L├¡nea 482: El Consorcio - El Chacacha del Tren
+   L├¡nea 495: El Consorcio - El Chacacha del Tren
+   L├¡nea 516: El Consorcio - El Chacacha del Tren
+   L├¡nea 587: El Consorcio - El Chacacha del Tren
+   L├¡nea 606: El Consorcio - El Chacacha del Tren
+   L├¡nea 618: El Consorcio - El Chacacha del Tren
+   L├¡nea 755: El Consorcio - El Chacacha del Tren
+   L├¡nea 807: El Consorcio - El Chacacha del Tren
+   L├¡nea 848: El Consorcio - El Chacacha del Tren
+   L├¡nea 920: El Consorcio - El Chacacha del Tren
+   L├¡nea 930: El Consorcio - El Chacacha del Tren
+   L├¡nea 947: El Consorcio - El Chacacha del Tren
+   L├¡nea 981: El Consorcio - El Chacacha del Tren
+   L├¡nea 1055: El Consorcio - El Chacacha del Tren
+   L├¡nea 1072: El Consorcio - El Chacacha del Tren
+   L├¡nea 1103: El Consorcio - El Chacacha del Tren
+   L├¡nea 1127: El Consorcio - El Chacacha del Tren
+   L├¡nea 1160: El Consorcio - El Chacacha del Tren
+   L├¡nea 1212: El Consorcio - El Chacacha del Tren
+   L├¡nea 1228: El Consorcio - El Chacacha del Tren
+   L├¡nea 1276: El Consorcio - El Chacacha del Tren
+   L├¡nea 1450: El Consorcio - El Chacacha del Tren
+   L├¡nea 1472: El Consorcio - El Chacacha del Tren
+   L├¡nea 1535: El Consorcio - El Chacacha del Tren
+   L├¡nea 1710: El Consorcio - El Chacacha del Tren
+   L├¡nea 1784: El Consorcio - El Chacacha del Tren
+   L├¡nea 1803: El Consorcio - El Chacacha del Tren
+   L├¡nea 1813: El Consorcio - El Chacacha del Tren
+   L├¡nea 1888: El Consorcio - El Chacacha del Tren
+   L├¡nea 1941: El Consorcio - El Chacacha del Tren
+   L├¡nea 1961: El Consorcio - El Chacacha del Tren
+   L├¡nea 1970: El Consorcio - El Chacacha del Tren
+   L├¡nea 1989: El Consorcio - El Chacacha del Tren
+   L├¡nea 2025: El Consorcio - El Chacacha del Tren
+   L├¡nea 2107: El Consorcio - El Chacacha del Tren
+   L├¡nea 2162: El Consorcio - El Chacacha del Tren
+   L├¡nea 2252: El Consorcio - El Chacacha del Tren
+   L├¡nea 2386: El Consorcio - El Chacacha del Tren
+   L├¡nea 2438: El Consorcio - El Chacacha del Tren
+   L├¡nea 2490: El Consorcio - El Chacacha del Tren
+   L├¡nea 2542: El Consorcio - El Chacacha del Tren
+   L├¡nea 2581: El Consorcio - El Chacacha del Tren
+   L├¡nea 2594: El Consorcio - El Chacacha del Tren
+
+ΓÜá∩╕Å  ID 4 tiene 44 variantes:
+   L├¡nea 54: Coyote Dax - No Rompas M├ís
+   L├¡nea 81: Coyote Dax - No Rompas M├ís
+   L├¡nea 133: Coyote Dax - No Rompas M├ís
+   L├¡nea 166: Coyote Dax - No Rompas M├ís
+   L├¡nea 192: Coyote Dax - No Rompas M├ís
+   L├¡nea 244: Coyote Dax - No Rompas M├ís
+   L├¡nea 259: Coyote Dax - No Rompas M├ís
+   L├¡nea 276: Coyote Dax - No Rompas M├ís
+   L├¡nea 296: Coyote Dax - No Rompas M├ís
+   L├¡nea 350: Coyote Dax - No Rompas M├ís
+   L├¡nea 380: Coyote Dax - No Rompas M├ís
+   L├¡nea 399: Coyote Dax - No Rompas M├ís
+   L├¡nea 412: Coyote Dax - No Rompas M├ís
+   L├¡nea 426: Coyote Dax - No Rompas M├ís
+   L├¡nea 465: Coyote Dax - No Rompas M├ís
+   L├¡nea 793: Coyote Dax - No Rompas M├ís
+   L├¡nea 810: Coyote Dax - No Rompas M├ís
+   L├¡nea 827: Coyote Dax - No Rompas M├ís
+   L├¡nea 862: Coyote Dax - No Rompas M├ís
+   L├¡nea 963: Coyote Dax - No Rompas M├ís
+   L├¡nea 1024: Coyote Dax - No Rompas M├ís
+   L├¡nea 1043: Coyote Dax - No Rompas M├ís
+   L├¡nea 1122: Coyote Dax - No Rompas M├ís
+   L├¡nea 1145: Coyote Dax - No Rompas M├ís
+   L├¡nea 1226: Coyote Dax - No Rompas M├ís
+   L├¡nea 1278: Coyote Dax - No Rompas M├ís
+   L├¡nea 1420: Coyote Dax - No Rompas M├ís
+   L├¡nea 1440: Coyote Dax - No Rompas M├ís
+   L├¡nea 1484: Coyote Dax - No Rompas M├ís
+   L├¡nea 1596: Coyote Dax - No Rompas M├ís
+   L├¡nea 1631: Coyote Dax - No Rompas M├ís
+   L├¡nea 1694: Coyote Dax - No Rompas M├ís
+   L├¡nea 1752: Coyote Dax - No Rompas M├ís
+   L├¡nea 1835: Coyote Dax - No Rompas M├ís
+   L├¡nea 2064: Coyote Dax - No Rompas M├ís
+   L├¡nea 2168: Coyote Dax - No Rompas M├ís
+   L├¡nea 2197: Coyote Dax - No Rompas M├ís
+   L├¡nea 2219: Coyote Dax - No Rompas M├ís
+   L├¡nea 2251: Coyote Dax - No Rompas M├ís
+   L├¡nea 2290: Coyote Dax - No Rompas M├ís
+   L├¡nea 2323: Coyote Dax - No Rompas M├ís
+   L├¡nea 2446: Coyote Dax - No Rompas M├ís
+   L├¡nea 2602: Coyote Dax - No Rompas M├ís
+   L├¡nea 30: Coyote Dax - No rompas m├ís
+
+ΓÜá∩╕Å  ID 5 tiene 39 variantes:
+   L├¡nea 85: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 137: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 204: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 218: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 242: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 271: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 359: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 381: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 449: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 553: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 605: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 917: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1086: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1264: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1283: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1310: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1333: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1367: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1437: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1474: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1504: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1554: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1576: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1626: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1732: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1893: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1902: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 1916: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2044: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2130: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2148: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2283: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2304: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2373: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2408: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2480: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2512: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2526: Isabel Aaiun - El himno de mi pe├▒a
+   L├¡nea 2577: Isabel Aaiun - El himno de mi pe├▒a
+
+ΓÜá∩╕Å  ID 6 tiene 37 variantes:
+   L├¡nea 69: Georgie Dann - La Barbacoa
+   L├¡nea 79: Georgie Dann - La Barbacoa
+   L├¡nea 121: Georgie Dann - La Barbacoa
+   L├¡nea 173: Georgie Dann - La Barbacoa
+   L├¡nea 225: Georgie Dann - La Barbacoa
+   L├¡nea 277: Georgie Dann - La Barbacoa
+   L├¡nea 329: Georgie Dann - La Barbacoa
+   L├¡nea 342: Georgie Dann - La Barbacoa
+   L├¡nea 433: Georgie Dann - La Barbacoa
+   L├¡nea 447: Georgie Dann - La Barbacoa
+   L├¡nea 537: Georgie Dann - La Barbacoa
+   L├¡nea 556: Georgie Dann - La Barbacoa
+   L├¡nea 641: Georgie Dann - La Barbacoa
+   L├¡nea 668: Georgie Dann - La Barbacoa
+   L├¡nea 712: Georgie Dann - La Barbacoa
+   L├¡nea 758: Georgie Dann - La Barbacoa
+   L├¡nea 775: Georgie Dann - La Barbacoa
+   L├¡nea 1005: Georgie Dann - La Barbacoa
+   L├¡nea 1070: Georgie Dann - La Barbacoa
+   L├¡nea 1087: Georgie Dann - La Barbacoa
+   L├¡nea 1156: Georgie Dann - La Barbacoa
+   L├¡nea 1193: Georgie Dann - La Barbacoa
+   L├¡nea 1210: Georgie Dann - La Barbacoa
+   L├¡nea 1243: Georgie Dann - La Barbacoa
+   L├¡nea 1295: Georgie Dann - La Barbacoa
+   L├¡nea 1336: Georgie Dann - La Barbacoa
+   L├¡nea 1388: Georgie Dann - La Barbacoa
+   L├¡nea 1525: Georgie Dann - La Barbacoa
+   L├¡nea 1574: Georgie Dann - La Barbacoa
+   L├¡nea 1607: Georgie Dann - La Barbacoa
+   L├¡nea 1659: Georgie Dann - La Barbacoa
+   L├¡nea 1763: Georgie Dann - La Barbacoa
+   L├¡nea 1919: Georgie Dann - La Barbacoa
+   L├¡nea 1993: Georgie Dann - La Barbacoa
+   L├¡nea 2075: Georgie Dann - La Barbacoa
+   L├¡nea 2179: Georgie Dann - La Barbacoa
+   L├¡nea 2333: Georgie Dann - La Barbacoa
+
+ΓÜá∩╕Å  ID 7 tiene 30 variantes:
+   L├¡nea 396: Raphael - Mi gran noche
+   L├¡nea 415: Raphael - Mi gran noche
+   L├¡nea 467: Raphael - Mi gran noche
+   L├¡nea 498: Raphael - Mi gran noche
+   L├¡nea 519: Raphael - Mi gran noche
+   L├¡nea 550: Raphael - Mi gran noche
+   L├¡nea 571: Raphael - Mi gran noche
+   L├¡nea 831: Raphael - Mi gran noche
+   L├¡nea 883: Raphael - Mi gran noche
+   L├¡nea 916: Raphael - Mi gran noche
+   L├¡nea 1247: Raphael - Mi gran noche
+   L├¡nea 1436: Raphael - Mi gran noche
+   L├¡nea 1490: Raphael - Mi gran noche
+   L├¡nea 1559: Raphael - Mi gran noche
+   L├¡nea 1696: Raphael - Mi gran noche
+   L├¡nea 1767: Raphael - Mi gran noche
+   L├¡nea 1804: Raphael - Mi gran noche
+   L├¡nea 1923: Raphael - Mi gran noche
+   L├¡nea 1956: Raphael - Mi gran noche
+   L├¡nea 2041: Raphael - Mi gran noche
+   L├¡nea 2062: Raphael - Mi gran noche
+   L├¡nea 2079: Raphael - Mi gran noche
+   L├¡nea 2149: Raphael - Mi gran noche
+   L├¡nea 2268: Raphael - Mi gran noche
+   L├¡nea 2342: Raphael - Mi gran noche
+   L├¡nea 2372: Raphael - Mi gran noche
+   L├¡nea 2442: Raphael - Mi gran noche
+   L├¡nea 2476: Raphael - Mi gran noche
+   L├¡nea 2528: Raphael - Mi gran noche
+   L├¡nea 2580: Raphael - Mi gran noche
+
+ΓÜá∩╕Å  ID 8 tiene 37 variantes:
+   L├¡nea 64: Alaska - A quien le importa
+   L├¡nea 96: Alaska - A quien le importa
+   L├¡nea 220: Alaska - A quien le importa
+   L├¡nea 288: Alaska - A quien le importa
+   L├¡nea 315: Alaska - A quien le importa
+   L├¡nea 324: Alaska - A quien le importa
+   L├¡nea 428: Alaska - A quien le importa
+   L├¡nea 487: Alaska - A quien le importa
+   L├¡nea 531: Alaska - A quien le importa
+   L├¡nea 636: Alaska - A quien le importa
+   L├¡nea 651: Alaska - A quien le importa
+   L├¡nea 740: Alaska - A quien le importa
+   L├¡nea 772: Alaska - A quien le importa
+   L├¡nea 918: Alaska - A quien le importa
+   L├¡nea 1000: Alaska - A quien le importa
+   L├¡nea 1312: Alaska - A quien le importa
+   L├¡nea 1416: Alaska - A quien le importa
+   L├¡nea 1518: Alaska - A quien le importa
+   L├¡nea 1541: Alaska - A quien le importa
+   L├¡nea 1814: Alaska - A quien le importa
+   L├¡nea 1833: Alaska - A quien le importa
+   L├¡nea 1864: Alaska - A quien le importa
+   L├¡nea 1988: Alaska - A quien le importa
+   L├¡nea 2013: Alaska - A quien le importa
+   L├¡nea 2020: Alaska - A quien le importa
+   L├¡nea 2092: Alaska - A quien le importa
+   L├¡nea 2196: Alaska - A quien le importa
+   L├¡nea 2211: Alaska - A quien le importa
+   L├¡nea 2282: Alaska - A quien le importa
+   L├¡nea 2316: Alaska - A quien le importa
+   L├¡nea 2337: Alaska - A quien le importa
+   L├¡nea 2357: Alaska - A quien le importa
+   L├¡nea 2422: Alaska - A quien le importa
+   L├¡nea 2463: Alaska - A quien le importa
+   L├¡nea 2491: Alaska - A quien le importa
+   L├¡nea 2550: Alaska - A quien le importa
+   L├¡nea 2564: Alaska - A quien le importa
+
+ΓÜá∩╕Å  ID 9 tiene 30 variantes:
+   L├¡nea 287: Radio Futura - Escuela de Calor
+   L├¡nea 460: Radio Futura - Escuela de Calor
+   L├¡nea 568: Radio Futura - Escuela de Calor
+   L├¡nea 582: Radio Futura - Escuela de Calor
+   L├¡nea 620: Radio Futura - Escuela de Calor
+   L├¡nea 796: Radio Futura - Escuela de Calor
+   L├¡nea 984: Radio Futura - Escuela de Calor
+   L├¡nea 1113: Radio Futura - Escuela de Calor
+   L├¡nea 1125: Radio Futura - Escuela de Calor
+   L├¡nea 1140: Radio Futura - Escuela de Calor
+   L├¡nea 1161: Radio Futura - Escuela de Calor
+   L├¡nea 1178: Radio Futura - Escuela de Calor
+   L├¡nea 1262: Radio Futura - Escuela de Calor
+   L├¡nea 1470: Radio Futura - Escuela de Calor
+   L├¡nea 1575: Radio Futura - Escuela de Calor
+   L├¡nea 1608: Radio Futura - Escuela de Calor
+   L├¡nea 1649: Radio Futura - Escuela de Calor
+   L├¡nea 1660: Radio Futura - Escuela de Calor
+   L├¡nea 1746: Radio Futura - Escuela de Calor
+   L├¡nea 1778: Radio Futura - Escuela de Calor
+   L├¡nea 1854: Radio Futura - Escuela de Calor
+   L├¡nea 2055: Radio Futura - Escuela de Calor
+   L├¡nea 2095: Radio Futura - Escuela de Calor
+   L├¡nea 2118: Radio Futura - Escuela de Calor
+   L├¡nea 2128: Radio Futura - Escuela de Calor
+   L├¡nea 2163: Radio Futura - Escuela de Calor
+   L├¡nea 2180: Radio Futura - Escuela de Calor
+   L├¡nea 2298: Radio Futura - Escuela de Calor
+   L├¡nea 2440: Radio Futura - Escuela de Calor
+   L├¡nea 2498: Radio Futura - Escuela de Calor
+
+ΓÜá∩╕Å  ID 10 tiene 37 variantes:
+   L├¡nea 125: CNCO - Reguet├│n Lento
+   L├¡nea 141: CNCO - Reguet├│n Lento
+   L├¡nea 177: CNCO - Reguet├│n Lento
+   L├¡nea 246: CNCO - Reguet├│n Lento
+   L├¡nea 258: CNCO - Reguet├│n Lento
+   L├¡nea 281: CNCO - Reguet├│n Lento
+   L├¡nea 313: CNCO - Reguet├│n Lento
+   L├¡nea 333: CNCO - Reguet├│n Lento
+   L├¡nea 464: CNCO - Reguet├│n Lento
+   L├¡nea 687: CNCO - Reguet├│n Lento
+   L├¡nea 749: CNCO - Reguet├│n Lento
+   L├¡nea 801: CNCO - Reguet├│n Lento
+   L├¡nea 814: CNCO - Reguet├│n Lento
+   L├¡nea 900: CNCO - Reguet├│n Lento
+   L├¡nea 934: CNCO - Reguet├│n Lento
+   L├¡nea 1026: CNCO - Reguet├│n Lento
+   L├¡nea 1038: CNCO - Reguet├│n Lento
+   L├¡nea 1061: CNCO - Reguet├│n Lento
+   L├¡nea 1073: CNCO - Reguet├│n Lento
+   L├¡nea 1094: CNCO - Reguet├│n Lento
+   L├¡nea 1369: CNCO - Reguet├│n Lento
+   L├¡nea 1386: CNCO - Reguet├│n Lento
+   L├¡nea 1926: CNCO - Reguet├│n Lento
+   L├¡nea 1997: CNCO - Reguet├│n Lento
+   L├¡nea 2065: CNCO - Reguet├│n Lento
+   L├¡nea 2153: CNCO - Reguet├│n Lento
+   L├¡nea 2181: CNCO - Reguet├│n Lento
+   L├¡nea 2205: CNCO - Reguet├│n Lento
+   L├¡nea 2218: CNCO - Reguet├│n Lento
+   L├¡nea 2257: CNCO - Reguet├│n Lento
+   L├¡nea 2267: CNCO - Reguet├│n Lento
+   L├¡nea 2286: CNCO - Reguet├│n Lento
+   L├¡nea 2319: CNCO - Reguet├│n Lento
+   L├¡nea 2390: CNCO - Reguet├│n Lento
+   L├¡nea 2404: CNCO - Reguet├│n Lento
+   L├¡nea 2424: CNCO - Reguet├│n Lento
+   L├¡nea 2530: CNCO - Reguet├│n Lento
+
+ΓÜá∩╕Å  ID 11 tiene 37 variantes:
+   L├¡nea 117: Baby Lores - La mujer del pelotero
+   L├¡nea 148: Baby Lores - La mujer del pelotero
+   L├¡nea 252: Baby Lores - La mujer del pelotero
+   L├¡nea 357: Baby Lores - La mujer del pelotero
+   L├¡nea 377: Baby Lores - La mujer del pelotero
+   L├¡nea 518: Baby Lores - La mujer del pelotero
+   L├¡nea 533: Baby Lores - La mujer del pelotero
+   L├¡nea 585: Baby Lores - La mujer del pelotero
+   L├¡nea 602: Baby Lores - La mujer del pelotero
+   L├¡nea 689: Baby Lores - La mujer del pelotero
+   L├¡nea 703: Baby Lores - La mujer del pelotero
+   L├¡nea 726: Baby Lores - La mujer del pelotero
+   L├¡nea 741: Baby Lores - La mujer del pelotero
+   L├¡nea 765: Baby Lores - La mujer del pelotero
+   L├¡nea 781: Baby Lores - La mujer del pelotero
+   L├¡nea 954: Baby Lores - La mujer del pelotero
+   L├¡nea 1053: Baby Lores - La mujer del pelotero
+   L├¡nea 1069: Baby Lores - La mujer del pelotero
+   L├¡nea 1090: Baby Lores - La mujer del pelotero
+   L├¡nea 1313: Baby Lores - La mujer del pelotero
+   L├¡nea 1327: Baby Lores - La mujer del pelotero
+   L├¡nea 1345: Baby Lores - La mujer del pelotero
+   L├¡nea 1365: Baby Lores - La mujer del pelotero
+   L├¡nea 1379: Baby Lores - La mujer del pelotero
+   L├¡nea 1396: Baby Lores - La mujer del pelotero
+   L├¡nea 1521: Baby Lores - La mujer del pelotero
+   L├¡nea 1542: Baby Lores - La mujer del pelotero
+   L├¡nea 1557: Baby Lores - La mujer del pelotero
+   L├¡nea 1727: Baby Lores - La mujer del pelotero
+   L├¡nea 1889: Baby Lores - La mujer del pelotero
+   L├¡nea 2039: Baby Lores - La mujer del pelotero
+   L├¡nea 2093: Baby Lores - La mujer del pelotero
+   L├¡nea 2110: Baby Lores - La mujer del pelotero
+   L├¡nea 2127: Baby Lores - La mujer del pelotero
+   L├¡nea 2160: Baby Lores - La mujer del pelotero
+   L├¡nea 2320: Baby Lores - La mujer del pelotero
+   L├¡nea 2563: Baby Lores - La mujer del pelotero
+
+ΓÜá∩╕Å  ID 12 tiene 32 variantes:
+   L├¡nea 20: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 31: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 50: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 102: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 114: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 154: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 674: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 756: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 898: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1003: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1071: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1109: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1128: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1143: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1298: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1454: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1680: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1695: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1714: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1733: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 1891: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2006: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2078: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2203: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2234: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2254: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2271: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2338: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2371: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2385: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2464: Joaqu├¡n Sabina - Y nos dieron las 10
+   L├¡nea 2494: Joaqu├¡n Sabina - Y nos dieron las 10
+
+ΓÜá∩╕Å  ID 13 tiene 34 variantes:
+   L├¡nea 18: Nino Bravo - Libre
+   L├¡nea 33: Nino Bravo - Libre
+   L├¡nea 174: Nino Bravo - Libre
+   L├¡nea 189: Nino Bravo - Libre
+   L├¡nea 206: Nino Bravo - Libre
+   L├¡nea 226: Nino Bravo - Libre
+   L├¡nea 278: Nino Bravo - Libre
+   L├¡nea 322: Nino Bravo - Libre
+   L├¡nea 382: Nino Bravo - Libre
+   L├¡nea 395: Nino Bravo - Libre
+   L├¡nea 434: Nino Bravo - Libre
+   L├¡nea 501: Nino Bravo - Libre
+   L├¡nea 654: Nino Bravo - Libre
+   L├¡nea 694: Nino Bravo - Libre
+   L├¡nea 1006: Nino Bravo - Libre
+   L├¡nea 1032: Nino Bravo - Libre
+   L├¡nea 1370: Nino Bravo - Libre
+   L├¡nea 1385: Nino Bravo - Libre
+   L├¡nea 1422: Nino Bravo - Libre
+   L├¡nea 1558: Nino Bravo - Libre
+   L├¡nea 1682: Nino Bravo - Libre
+   L├¡nea 1717: Nino Bravo - Libre
+   L├¡nea 1942: Nino Bravo - Libre
+   L├¡nea 1957: Nino Bravo - Libre
+   L├¡nea 1968: Nino Bravo - Libre
+   L├¡nea 2009: Nino Bravo - Libre
+   L├¡nea 2023: Nino Bravo - Libre
+   L├¡nea 2214: Nino Bravo - Libre
+   L├¡nea 2233: Nino Bravo - Libre
+   L├¡nea 2360: Nino Bravo - Libre
+   L├¡nea 2462: Nino Bravo - Libre
+   L├¡nea 2471: Nino Bravo - Libre
+   L├¡nea 2566: Nino Bravo - Libre
+   L├¡nea 2595: Nino Bravo - Libre
+
+ΓÜá∩╕Å  ID 14 tiene 33 variantes:
+   L├¡nea 10: Don Omar - Danza Kuduro
+   L├¡nea 44: Don Omar - Danza Kuduro
+   L├¡nea 87: Don Omar - Danza Kuduro
+   L├¡nea 445: Don Omar - Danza Kuduro
+   L├¡nea 468: Don Omar - Danza Kuduro
+   L├¡nea 481: Don Omar - Danza Kuduro
+   L├¡nea 572: Don Omar - Danza Kuduro
+   L├¡nea 728: Don Omar - Danza Kuduro
+   L├¡nea 780: Don Omar - Danza Kuduro
+   L├¡nea 794: Don Omar - Danza Kuduro
+   L├¡nea 832: Don Omar - Danza Kuduro
+   L├¡nea 845: Don Omar - Danza Kuduro
+   L├¡nea 866: Don Omar - Danza Kuduro
+   L├¡nea 884: Don Omar - Danza Kuduro
+   L├¡nea 953: Don Omar - Danza Kuduro
+   L├¡nea 1074: Don Omar - Danza Kuduro
+   L├¡nea 1102: Don Omar - Danza Kuduro
+   L├¡nea 1174: Don Omar - Danza Kuduro
+   L├¡nea 1230: Don Omar - Danza Kuduro
+   L├¡nea 1334: Don Omar - Danza Kuduro
+   L├¡nea 1471: Don Omar - Danza Kuduro
+   L├¡nea 1508: Don Omar - Danza Kuduro
+   L├¡nea 1612: Don Omar - Danza Kuduro
+   L├¡nea 1642: Don Omar - Danza Kuduro
+   L├¡nea 1729: Don Omar - Danza Kuduro
+   L├¡nea 1820: Don Omar - Danza Kuduro
+   L├¡nea 1836: Don Omar - Danza Kuduro
+   L├¡nea 1872: Don Omar - Danza Kuduro
+   L├¡nea 2099: Don Omar - Danza Kuduro
+   L├¡nea 2152: Don Omar - Danza Kuduro
+   L├¡nea 2165: Don Omar - Danza Kuduro
+   L├¡nea 2184: Don Omar - Danza Kuduro
+   L├¡nea 2249: Don Omar - Danza Kuduro
+
+ΓÜá∩╕Å  ID 15 tiene 47 variantes:
+   L├¡nea 16: Pereza - Princesa
+   L├¡nea 51: Pereza - Princesa
+   L├¡nea 66: Pereza - Princesa
+   L├¡nea 107: Pereza - Princesa
+   L├¡nea 132: Pereza - Princesa
+   L├¡nea 152: Pereza - Princesa
+   L├¡nea 184: Pereza - Princesa
+   L├¡nea 211: Pereza - Princesa
+   L├¡nea 236: Pereza - Princesa
+   L├¡nea 330: Pereza - Princesa
+   L├¡nea 340: Pereza - Princesa
+   L├¡nea 411: Pereza - Princesa
+   L├¡nea 435: Pereza - Princesa
+   L├¡nea 619: Pereza - Princesa
+   L├¡nea 652: Pereza - Princesa
+   L├¡nea 704: Pereza - Princesa
+   L├¡nea 808: Pereza - Princesa
+   L├¡nea 849: Pereza - Princesa
+   L├¡nea 901: Pereza - Princesa
+   L├¡nea 912: Pereza - Princesa
+   L├¡nea 965: Pereza - Princesa
+   L├¡nea 985: Pereza - Princesa
+   L├¡nea 1016: Pereza - Princesa
+   L├¡nea 1056: Pereza - Princesa
+   L├¡nea 1068: Pereza - Princesa
+   L├¡nea 1107: Pereza - Princesa
+   L├¡nea 1136: Pereza - Princesa
+   L├¡nea 1158: Pereza - Princesa
+   L├¡nea 1194: Pereza - Princesa
+   L├¡nea 1350: Pereza - Princesa
+   L├¡nea 1398: Pereza - Princesa
+   L├¡nea 1432: Pereza - Princesa
+   L├¡nea 1457: Pereza - Princesa
+   L├¡nea 1692: Pereza - Princesa
+   L├¡nea 1715: Pereza - Princesa
+   L├¡nea 1782: Pereza - Princesa
+   L├¡nea 1830: Pereza - Princesa
+   L├¡nea 1848: Pereza - Princesa
+   L├¡nea 1943: Pereza - Princesa
+   L├¡nea 1978: Pereza - Princesa
+   L├¡nea 2091: Pereza - Princesa
+   L├¡nea 2109: Pereza - Princesa
+   L├¡nea 2235: Pereza - Princesa
+   L├¡nea 2406: Pereza - Princesa
+   L├¡nea 2420: Pereza - Princesa
+   L├¡nea 2510: Pereza - Princesa
+   L├¡nea 2524: Pereza - Princesa
+
+ΓÜá∩╕Å  ID 16 tiene 30 variantes:
+   L├¡nea 123: Izal - La Mujer de Verde
+   L├¡nea 200: Izal - La Mujer de Verde
+   L├¡nea 306: Izal - La Mujer de Verde
+   L├¡nea 331: Izal - La Mujer de Verde
+   L├¡nea 436: Izal - La Mujer de Verde
+   L├¡nea 950: Izal - La Mujer de Verde
+   L├¡nea 973: Izal - La Mujer de Verde
+   L├¡nea 1146: Izal - La Mujer de Verde
+   L├¡nea 1164: Izal - La Mujer de Verde
+   L├¡nea 1250: Izal - La Mujer de Verde
+   L├¡nea 1265: Izal - La Mujer de Verde
+   L├¡nea 1285: Izal - La Mujer de Verde
+   L├¡nea 1501: Izal - La Mujer de Verde
+   L├¡nea 1579: Izal - La Mujer de Verde
+   L├¡nea 1589: Izal - La Mujer de Verde
+   L├¡nea 1633: Izal - La Mujer de Verde
+   L├¡nea 1666: Izal - La Mujer de Verde
+   L├¡nea 1754: Izal - La Mujer de Verde
+   L├¡nea 1761: Izal - La Mujer de Verde
+   L├¡nea 1785: Izal - La Mujer de Verde
+   L├¡nea 1797: Izal - La Mujer de Verde
+   L├¡nea 1816: Izal - La Mujer de Verde
+   L├¡nea 1834: Izal - La Mujer de Verde
+   L├¡nea 1851: Izal - La Mujer de Verde
+   L├¡nea 1882: Izal - La Mujer de Verde
+   L├¡nea 1910: Izal - La Mujer de Verde
+   L├¡nea 2049: Izal - La Mujer de Verde
+   L├¡nea 2318: Izal - La Mujer de Verde
+   L├¡nea 2477: Izal - La Mujer de Verde
+   L├¡nea 2547: Izal - La Mujer de Verde
+
+ΓÜá∩╕Å  ID 17 tiene 44 variantes:
+   L├¡nea 19: Zapato veloz - Tractor amarillo
+   L├¡nea 37: Zapato veloz - Tractor amarillo
+   L├¡nea 45: Zapato veloz - Tractor amarillo
+   L├¡nea 89: Zapato veloz - Tractor amarillo
+   L├¡nea 104: Zapato veloz - Tractor amarillo
+   L├¡nea 169: Zapato veloz - Tractor amarillo
+   L├¡nea 297: Zapato veloz - Tractor amarillo
+   L├¡nea 304: Zapato veloz - Tractor amarillo
+   L├¡nea 378: Zapato veloz - Tractor amarillo
+   L├¡nea 401: Zapato veloz - Tractor amarillo
+   L├¡nea 505: Zapato veloz - Tractor amarillo
+   L├¡nea 557: Zapato veloz - Tractor amarillo
+   L├¡nea 609: Zapato veloz - Tractor amarillo
+   L├¡nea 643: Zapato veloz - Tractor amarillo
+   L├¡nea 661: Zapato veloz - Tractor amarillo
+   L├¡nea 676: Zapato veloz - Tractor amarillo
+   L├¡nea 713: Zapato veloz - Tractor amarillo
+   L├¡nea 748: Zapato veloz - Tractor amarillo
+   L├¡nea 834: Zapato veloz - Tractor amarillo
+   L├¡nea 877: Zapato veloz - Tractor amarillo
+   L├¡nea 894: Zapato veloz - Tractor amarillo
+   L├¡nea 936: Zapato veloz - Tractor amarillo
+   L├¡nea 939: Zapato veloz - Tractor amarillo
+   L├¡nea 1001: Zapato veloz - Tractor amarillo
+   L├¡nea 1407: Zapato veloz - Tractor amarillo
+   L├¡nea 1414: Zapato veloz - Tractor amarillo
+   L├¡nea 1441: Zapato veloz - Tractor amarillo
+   L├¡nea 1453: Zapato veloz - Tractor amarillo
+   L├¡nea 1552: Zapato veloz - Tractor amarillo
+   L├¡nea 1678: Zapato veloz - Tractor amarillo
+   L├¡nea 1699: Zapato veloz - Tractor amarillo
+   L├¡nea 1962: Zapato veloz - Tractor amarillo
+   L├¡nea 1986: Zapato veloz - Tractor amarillo
+   L├¡nea 2005: Zapato veloz - Tractor amarillo
+   L├¡nea 2022: Zapato veloz - Tractor amarillo
+   L├¡nea 2202: Zapato veloz - Tractor amarillo
+   L├¡nea 2221: Zapato veloz - Tractor amarillo
+   L├¡nea 2273: Zapato veloz - Tractor amarillo
+   L├¡nea 2350: Zapato veloz - Tractor amarillo
+   L├¡nea 2411: Zapato veloz - Tractor amarillo
+   L├¡nea 2496: Zapato veloz - Tractor amarillo
+   L├¡nea 2533: Zapato veloz - Tractor amarillo
+   L├¡nea 2558: Zapato veloz - Tractor amarillo
+   L├¡nea 2585: Zapato veloz - Tractor amarillo
+
+ΓÜá∩╕Å  ID 18 tiene 41 variantes:
+   L├¡nea 762: Amaral - Mis amigos
+   L├¡nea 809: Amaral - Mis amigos
+   L├¡nea 844: Amaral - Mis amigos
+   L├¡nea 896: Amaral - Mis amigos
+   L├¡nea 897: Amaral - Mis amigos
+   L├¡nea 914: Amaral - Mis amigos
+   L├¡nea 933: Amaral - Mis amigos
+   L├¡nea 982: Amaral - Mis amigos
+   L├¡nea 998: Amaral - Mis amigos
+   L├¡nea 1021: Amaral - Mis amigos
+   L├¡nea 1036: Amaral - Mis amigos
+   L├¡nea 1052: Amaral - Mis amigos
+   L├¡nea 1104: Amaral - Mis amigos
+   L├¡nea 1121: Amaral - Mis amigos
+   L├¡nea 1176: Amaral - Mis amigos
+   L├¡nea 1299: Amaral - Mis amigos
+   L├¡nea 1338: Amaral - Mis amigos
+   L├¡nea 1468: Amaral - Mis amigos
+   L├¡nea 1509: Amaral - Mis amigos
+   L├¡nea 1614: Amaral - Mis amigos
+   L├¡nea 1624: Amaral - Mis amigos
+   L├¡nea 1644: Amaral - Mis amigos
+   L├¡nea 1676: Amaral - Mis amigos
+   L├¡nea 1698: Amaral - Mis amigos
+   L├¡nea 1712: Amaral - Mis amigos
+   L├¡nea 1751: Amaral - Mis amigos
+   L├¡nea 1780: Amaral - Mis amigos
+   L├¡nea 1904: Amaral - Mis amigos
+   L├¡nea 1921: Amaral - Mis amigos
+   L├¡nea 1972: Amaral - Mis amigos
+   L├¡nea 2040: Amaral - Mis amigos
+   L├¡nea 2113: Amaral - Mis amigos
+   L├¡nea 2253: Amaral - Mis amigos
+   L├¡nea 2300: Amaral - Mis amigos
+   L├¡nea 2340: Amaral - Mis amigos
+   L├¡nea 2351: Amaral - Mis amigos
+   L├¡nea 2369: Amaral - Mis amigos
+   L├¡nea 2388: Amaral - Mis amigos
+   L├¡nea 2456: Amaral - Mis amigos
+   L├¡nea 2578: Amaral - Mis amigos
+   L├¡nea 2598: Amaral - Mis amigos
+
+ΓÜá∩╕Å  ID 19 tiene 35 variantes:
+   L├¡nea 135: Myke Towers - Esa Falda
+   L├¡nea 155: Myke Towers - Esa Falda
+   L├¡nea 221: Myke Towers - Esa Falda
+   L├¡nea 363: Myke Towers - Esa Falda
+   L├¡nea 419: Myke Towers - Esa Falda
+   L├¡nea 645: Myke Towers - Esa Falda
+   L├¡nea 675: Myke Towers - Esa Falda
+   L├¡nea 731: Myke Towers - Esa Falda
+   L├¡nea 779: Myke Towers - Esa Falda
+   L├¡nea 853: Myke Towers - Esa Falda
+   L├¡nea 935: Myke Towers - Esa Falda
+   L├¡nea 987: Myke Towers - Esa Falda
+   L├¡nea 1209: Myke Towers - Esa Falda
+   L├¡nea 1281: Myke Towers - Esa Falda
+   L├¡nea 1321: Myke Towers - Esa Falda
+   L├¡nea 1387: Myke Towers - Esa Falda
+   L├¡nea 1492: Myke Towers - Esa Falda
+   L├¡nea 1507: Myke Towers - Esa Falda
+   L├¡nea 1520: Myke Towers - Esa Falda
+   L├¡nea 1663: Myke Towers - Esa Falda
+   L├¡nea 1711: Myke Towers - Esa Falda
+   L├¡nea 1744: Myke Towers - Esa Falda
+   L├¡nea 1805: Myke Towers - Esa Falda
+   L├¡nea 1819: Myke Towers - Esa Falda
+   L├¡nea 1917: Myke Towers - Esa Falda
+   L├¡nea 2008: Myke Towers - Esa Falda
+   L├¡nea 2076: Myke Towers - Esa Falda
+   L├¡nea 2161: Myke Towers - Esa Falda
+   L├¡nea 2183: Myke Towers - Esa Falda
+   L├¡nea 2201: Myke Towers - Esa Falda
+   L├¡nea 2265: Myke Towers - Esa Falda
+   L├¡nea 2287: Myke Towers - Esa Falda
+   L├¡nea 2307: Myke Towers - Esa Falda
+   L├¡nea 2509: Myke Towers - Esa Falda
+   L├¡nea 2586: Myke Towers - Esa Falda
+
+ΓÜá∩╕Å  ID 20 tiene 40 variantes:
+   L├¡nea 273: La pegatina - Man├¡ Carmen
+   L├¡nea 513: La pegatina - Man├¡ Carmen
+   L├¡nea 593: La pegatina - Man├¡ Carmen
+   L├¡nea 692: La pegatina - Man├¡ Carmen
+   L├¡nea 869: La pegatina - Man├¡ Carmen
+   L├¡nea 946: La pegatina - Man├¡ Carmen
+   L├¡nea 971: La pegatina - Man├¡ Carmen
+   L├¡nea 1034: La pegatina - Man├¡ Carmen
+   L├¡nea 1077: La pegatina - Man├¡ Carmen
+   L├¡nea 1105: La pegatina - Man├¡ Carmen
+   L├¡nea 1138: La pegatina - Man├¡ Carmen
+   L├¡nea 1199: La pegatina - Man├¡ Carmen
+   L├¡nea 1215: La pegatina - Man├¡ Carmen
+   L├¡nea 1233: La pegatina - Man├¡ Carmen
+   L├¡nea 1251: La pegatina - Man├¡ Carmen
+   L├¡nea 1267: La pegatina - Man├¡ Carmen
+   L├¡nea 1296: La pegatina - Man├¡ Carmen
+   L├¡nea 1351: La pegatina - Man├¡ Carmen
+   L├¡nea 1389: La pegatina - Man├¡ Carmen
+   L├¡nea 1528: La pegatina - Man├¡ Carmen
+   L├¡nea 1545: La pegatina - Man├¡ Carmen
+   L├¡nea 1571: La pegatina - Man├¡ Carmen
+   L├¡nea 1597: La pegatina - Man├¡ Carmen
+   L├¡nea 1605: La pegatina - Man├¡ Carmen
+   L├¡nea 1650: La pegatina - Man├¡ Carmen
+   L├¡nea 1726: La pegatina - Man├¡ Carmen
+   L├¡nea 1766: La pegatina - Man├¡ Carmen
+   L├¡nea 1781: La pegatina - Man├¡ Carmen
+   L├¡nea 1796: La pegatina - Man├¡ Carmen
+   L├¡nea 1857: La pegatina - Man├¡ Carmen
+   L├¡nea 1883: La pegatina - Man├¡ Carmen
+   L├¡nea 1909: La pegatina - Man├¡ Carmen
+   L├¡nea 1920: La pegatina - Man├¡ Carmen
+   L├¡nea 2056: La pegatina - Man├¡ Carmen
+   L├¡nea 2133: La pegatina - Man├¡ Carmen
+   L├¡nea 2142: La pegatina - Man├¡ Carmen
+   L├¡nea 2169: La pegatina - Man├¡ Carmen
+   L├¡nea 2178: La pegatina - Man├¡ Carmen
+   L├¡nea 2334: La pegatina - Man├¡ Carmen
+   L├¡nea 2559: La pegatina - Man├¡ Carmen
+
+ΓÜá∩╕Å  ID 21 tiene 48 variantes:
+   L├¡nea 46: Gente de zona - La Gozadera
+   L├¡nea 63: Gente de zona - La Gozadera
+   L├¡nea 98: Gente de zona - La Gozadera
+   L├¡nea 118: Gente de zona - La Gozadera
+   L├¡nea 193: Gente de zona - La Gozadera
+   L├¡nea 349: Gente de zona - La Gozadera
+   L├¡nea 453: Gente de zona - La Gozadera
+   L├¡nea 489: Gente de zona - La Gozadera
+   L├¡nea 541: Gente de zona - La Gozadera
+   L├¡nea 565: Gente de zona - La Gozadera
+   L├¡nea 624: Gente de zona - La Gozadera
+   L├¡nea 659: Gente de zona - La Gozadera
+   L├¡nea 878: Gente de zona - La Gozadera
+   L├¡nea 921: Gente de zona - La Gozadera
+   L├¡nea 983: Gente de zona - La Gozadera
+   L├¡nea 1008: Gente de zona - La Gozadera
+   L├¡nea 1025: Gente de zona - La Gozadera
+   L├¡nea 1141: Gente de zona - La Gozadera
+   L├¡nea 1294: Gente de zona - La Gozadera
+   L├¡nea 1372: Gente de zona - La Gozadera
+   L├¡nea 1424: Gente de zona - La Gozadera
+   L├¡nea 1452: Gente de zona - La Gozadera
+   L├¡nea 1467: Gente de zona - La Gozadera
+   L├¡nea 1485: Gente de zona - La Gozadera
+   L├¡nea 1519: Gente de zona - La Gozadera
+   L├¡nea 1658: Gente de zona - La Gozadera
+   L├¡nea 1683: Gente de zona - La Gozadera
+   L├¡nea 1802: Gente de zona - La Gozadera
+   L├¡nea 1832: Gente de zona - La Gozadera
+   L├¡nea 1866: Gente de zona - La Gozadera
+   L├¡nea 1890: Gente de zona - La Gozadera
+   L├¡nea 1935: Gente de zona - La Gozadera
+   L├¡nea 1952: Gente de zona - La Gozadera
+   L├¡nea 1973: Gente de zona - La Gozadera
+   L├¡nea 1975: Gente de zona - La Gozadera
+   L├¡nea 1995: Gente de zona - La Gozadera
+   L├¡nea 2011: Gente de zona - La Gozadera
+   L├¡nea 2024: Gente de zona - La Gozadera
+   L├¡nea 2232: Gente de zona - La Gozadera
+   L├¡nea 2324: Gente de zona - La Gozadera
+   L├¡nea 2341: Gente de zona - La Gozadera
+   L├¡nea 2377: Gente de zona - La Gozadera
+   L├¡nea 2389: Gente de zona - La Gozadera
+   L├¡nea 2405: Gente de zona - La Gozadera
+   L├¡nea 2429: Gente de zona - La Gozadera
+   L├¡nea 2531: Gente de zona - La Gozadera
+   L├¡nea 2560: Gente de zona - La Gozadera
+   L├¡nea 11: Gente de zona - La gozadera
+
+ΓÜá∩╕Å  ID 22 tiene 12 variantes:
+   L├¡nea 870: Daddy Yankee - Gasolina
+   L├¡nea 974: Daddy Yankee - Gasolina
+   L├¡nea 1123: Daddy Yankee - Gasolina
+   L├¡nea 1240: Daddy Yankee - Gasolina
+   L├¡nea 1260: Daddy Yankee - Gasolina
+   L├¡nea 1623: Daddy Yankee - Gasolina
+   L├¡nea 1753: Daddy Yankee - Gasolina
+   L├¡nea 1765: Daddy Yankee - Gasolina
+   L├¡nea 1783: Daddy Yankee - Gasolina
+   L├¡nea 1812: Daddy Yankee - Gasolina
+   L├¡nea 2066: Daddy Yankee - Gasolina
+   L├¡nea 2083: Daddy Yankee - Gasolina
+
+ΓÜá∩╕Å  ID 23 tiene 49 variantes:
+   L├¡nea 72: King Africa - Paquito el Chocolatero
+   L├¡nea 88: King Africa - Paquito el Chocolatero
+   L├¡nea 140: King Africa - Paquito el Chocolatero
+   L├¡nea 157: King Africa - Paquito el Chocolatero
+   L├¡nea 176: King Africa - Paquito el Chocolatero
+   L├¡nea 194: King Africa - Paquito el Chocolatero
+   L├¡nea 209: King Africa - Paquito el Chocolatero
+   L├¡nea 227: King Africa - Paquito el Chocolatero
+   L├¡nea 261: King Africa - Paquito el Chocolatero
+   L├¡nea 432: King Africa - Paquito el Chocolatero
+   L├¡nea 452: King Africa - Paquito el Chocolatero
+   L├¡nea 461: King Africa - Paquito el Chocolatero
+   L├¡nea 486: King Africa - Paquito el Chocolatero
+   L├¡nea 503: King Africa - Paquito el Chocolatero
+   L├¡nea 514: King Africa - Paquito el Chocolatero
+   L├¡nea 538: King Africa - Paquito el Chocolatero
+   L├¡nea 549: King Africa - Paquito el Chocolatero
+   L├¡nea 660: King Africa - Paquito el Chocolatero
+   L├¡nea 705: King Africa - Paquito el Chocolatero
+   L├¡nea 764: King Africa - Paquito el Chocolatero
+   L├¡nea 816: King Africa - Paquito el Chocolatero
+   L├¡nea 886: King Africa - Paquito el Chocolatero
+   L├¡nea 919: King Africa - Paquito el Chocolatero
+   L├¡nea 948: King Africa - Paquito el Chocolatero
+   L├¡nea 968: King Africa - Paquito el Chocolatero
+   L├¡nea 1106: King Africa - Paquito el Chocolatero
+   L├¡nea 1180: King Africa - Paquito el Chocolatero
+   L├¡nea 1192: King Africa - Paquito el Chocolatero
+   L├¡nea 1362: King Africa - Paquito el Chocolatero
+   L├¡nea 1381: King Africa - Paquito el Chocolatero
+   L├¡nea 1434: King Africa - Paquito el Chocolatero
+   L├¡nea 1488: King Africa - Paquito el Chocolatero
+   L├¡nea 1505: King Africa - Paquito el Chocolatero
+   L├¡nea 1526: King Africa - Paquito el Chocolatero
+   L├¡nea 1538: King Africa - Paquito el Chocolatero
+   L├¡nea 1556: King Africa - Paquito el Chocolatero
+   L├¡nea 1734: King Africa - Paquito el Chocolatero
+   L├¡nea 1748: King Africa - Paquito el Chocolatero
+   L├¡nea 1760: King Africa - Paquito el Chocolatero
+   L├¡nea 1762: King Africa - Paquito el Chocolatero
+   L├¡nea 2094: King Africa - Paquito el Chocolatero
+   L├¡nea 2112: King Africa - Paquito el Chocolatero
+   L├¡nea 2126: King Africa - Paquito el Chocolatero
+   L├¡nea 2220: King Africa - Paquito el Chocolatero
+   L├¡nea 2237: King Africa - Paquito el Chocolatero
+   L├¡nea 2272: King Africa - Paquito el Chocolatero
+   L├¡nea 2305: King Africa - Paquito el Chocolatero
+   L├¡nea 2376: King Africa - Paquito el Chocolatero
+   L├¡nea 2393: King Africa - Paquito el Chocolatero
+
+ΓÜá∩╕Å  ID 24 tiene 35 variantes:
+   L├¡nea 49: El Canto del Loco - Zapatillas
+   L├¡nea 101: El Canto del Loco - Zapatillas
+   L├¡nea 120: El Canto del Loco - Zapatillas
+   L├¡nea 205: El Canto del Loco - Zapatillas
+   L├¡nea 257: El Canto del Loco - Zapatillas
+   L├¡nea 293: El Canto del Loco - Zapatillas
+   L├¡nea 309: El Canto del Loco - Zapatillas
+   L├¡nea 361: El Canto del Loco - Zapatillas
+   L├¡nea 385: El Canto del Loco - Zapatillas
+   L├¡nea 429: El Canto del Loco - Zapatillas
+   L├¡nea 517: El Canto del Loco - Zapatillas
+   L├¡nea 673: El Canto del Loco - Zapatillas
+   L├¡nea 725: El Canto del Loco - Zapatillas
+   L├¡nea 915: El Canto del Loco - Zapatillas
+   L├¡nea 1037: El Canto del Loco - Zapatillas
+   L├¡nea 1057: El Canto del Loco - Zapatillas
+   L├¡nea 1328: El Canto del Loco - Zapatillas
+   L├¡nea 1401: El Canto del Loco - Zapatillas
+   L├¡nea 1425: El Canto del Loco - Zapatillas
+   L├¡nea 1713: El Canto del Loco - Zapatillas
+   L├¡nea 1798: El Canto del Loco - Zapatillas
+   L├¡nea 1901: El Canto del Loco - Zapatillas
+   L├¡nea 1944: El Canto del Loco - Zapatillas
+   L├¡nea 1996: El Canto del Loco - Zapatillas
+   L├¡nea 2042: El Canto del Loco - Zapatillas
+   L├¡nea 2057: El Canto del Loco - Zapatillas
+   L├¡nea 2129: El Canto del Loco - Zapatillas
+   L├¡nea 2147: El Canto del Loco - Zapatillas
+   L├¡nea 2217: El Canto del Loco - Zapatillas
+   L├¡nea 2285: El Canto del Loco - Zapatillas
+   L├¡nea 2354: El Canto del Loco - Zapatillas
+   L├¡nea 2441: El Canto del Loco - Zapatillas
+   L├¡nea 2493: El Canto del Loco - Zapatillas
+   L├¡nea 2532: El Canto del Loco - Zapatillas
+   L├¡nea 2568: El Canto del Loco - Zapatillas
+
+ΓÜá∩╕Å  ID 25 tiene 36 variantes:
+   L├¡nea 116: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 175: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 270: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 291: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 305: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 325: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 782: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 790: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 813: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 825: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 851: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 955: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 972: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1111: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1182: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1249: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1284: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1502: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1598: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1632: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1735: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1787: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1852: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 1905: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2047: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2081: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2151: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2170: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2255: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2306: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2430: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2455: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2479: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2488: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2515: Los refrescos - Aqu├¡ no hay playa
+   L├¡nea 2567: Los refrescos - Aqu├¡ no hay playa
+
+ΓÜá∩╕Å  ID 26 tiene 39 variantes:
+   L├¡nea 14: Aitana - Las Babys
+   L├¡nea 68: Aitana - Las Babys
+   L├¡nea 99: Aitana - Las Babys
+   L├¡nea 183: Aitana - Las Babys
+   L├¡nea 239: Aitana - Las Babys
+   L├¡nea 272: Aitana - Las Babys
+   L├¡nea 343: Aitana - Las Babys
+   L├¡nea 356: Aitana - Las Babys
+   L├¡nea 398: Aitana - Las Babys
+   L├¡nea 408: Aitana - Las Babys
+   L├¡nea 496: Aitana - Las Babys
+   L├¡nea 586: Aitana - Las Babys
+   L├¡nea 601: Aitana - Las Babys
+   L├¡nea 616: Aitana - Las Babys
+   L├¡nea 635: Aitana - Las Babys
+   L├¡nea 693: Aitana - Las Babys
+   L├¡nea 707: Aitana - Las Babys
+   L├¡nea 720: Aitana - Las Babys
+   L├¡nea 928: Aitana - Las Babys
+   L├¡nea 1155: Aitana - Las Babys
+   L├¡nea 1418: Aitana - Las Babys
+   L├¡nea 1448: Aitana - Las Babys
+   L├¡nea 1487: Aitana - Las Babys
+   L├¡nea 1500: Aitana - Las Babys
+   L├¡nea 1522: Aitana - Las Babys
+   L├¡nea 1708: Aitana - Las Babys
+   L├¡nea 1934: Aitana - Las Babys
+   L├¡nea 1958: Aitana - Las Babys
+   L├¡nea 1971: Aitana - Las Babys
+   L├¡nea 2010: Aitana - Las Babys
+   L├¡nea 2026: Aitana - Las Babys
+   L├¡nea 2195: Aitana - Las Babys
+   L├¡nea 2280: Aitana - Las Babys
+   L├¡nea 2427: Aitana - Las Babys
+   L├¡nea 2482: Aitana - Las Babys
+   L├¡nea 2495: Aitana - Las Babys
+   L├¡nea 2551: Aitana - Las Babys
+   L├¡nea 2583: Aitana - Las Babys
+   L├¡nea 2592: Aitana - Las Babys
+
+ΓÜá∩╕Å  ID 27 tiene 36 variantes:
+   L├¡nea 637: Chocolate Latino - Mayonesa
+   L├¡nea 686: Chocolate Latino - Mayonesa
+   L├¡nea 723: Chocolate Latino - Mayonesa
+   L├¡nea 761: Chocolate Latino - Mayonesa
+   L├¡nea 799: Chocolate Latino - Mayonesa
+   L├¡nea 835: Chocolate Latino - Mayonesa
+   L├¡nea 1076: Chocolate Latino - Mayonesa
+   L├¡nea 1163: Chocolate Latino - Mayonesa
+   L├¡nea 1206: Chocolate Latino - Mayonesa
+   L├¡nea 1227: Chocolate Latino - Mayonesa
+   L├¡nea 1302: Chocolate Latino - Mayonesa
+   L├¡nea 1311: Chocolate Latino - Mayonesa
+   L├¡nea 1347: Chocolate Latino - Mayonesa
+   L├¡nea 1417: Chocolate Latino - Mayonesa
+   L├¡nea 1473: Chocolate Latino - Mayonesa
+   L├¡nea 1573: Chocolate Latino - Mayonesa
+   L├¡nea 1594: Chocolate Latino - Mayonesa
+   L├¡nea 1665: Chocolate Latino - Mayonesa
+   L├¡nea 1815: Chocolate Latino - Mayonesa
+   L├¡nea 1841: Chocolate Latino - Mayonesa
+   L├¡nea 1856: Chocolate Latino - Mayonesa
+   L├¡nea 1867: Chocolate Latino - Mayonesa
+   L├¡nea 1892: Chocolate Latino - Mayonesa
+   L├¡nea 1906: Chocolate Latino - Mayonesa
+   L├¡nea 2100: Chocolate Latino - Mayonesa
+   L├¡nea 2108: Chocolate Latino - Mayonesa
+   L├¡nea 2146: Chocolate Latino - Mayonesa
+   L├¡nea 2185: Chocolate Latino - Mayonesa
+   L├¡nea 2264: Chocolate Latino - Mayonesa
+   L├¡nea 2284: Chocolate Latino - Mayonesa
+   L├¡nea 2321: Chocolate Latino - Mayonesa
+   L├¡nea 2335: Chocolate Latino - Mayonesa
+   L├¡nea 2395: Chocolate Latino - Mayonesa
+   L├¡nea 2428: Chocolate Latino - Mayonesa
+   L├¡nea 2439: Chocolate Latino - Mayonesa
+   L├¡nea 2548: Chocolate Latino - Mayonesa
+
+ΓÜá∩╕Å  ID 28 tiene 65 variantes:
+   L├¡nea 36: Shakira - Pa Tipos Como T├║
+   L├¡nea 71: Shakira - Pa Tipos Como T├║
+   L├¡nea 106: Shakira - Pa Tipos Como T├║
+   L├¡nea 142: Shakira - Pa Tipos Como T├║
+   L├¡nea 159: Shakira - Pa Tipos Como T├║
+   L├¡nea 280: Shakira - Pa Tipos Como T├║
+   L├¡nea 298: Shakira - Pa Tipos Como T├║
+   L├¡nea 365: Shakira - Pa Tipos Como T├║
+   L├¡nea 384: Shakira - Pa Tipos Como T├║
+   L├¡nea 463: Shakira - Pa Tipos Como T├║
+   L├¡nea 488: Shakira - Pa Tipos Como T├║
+   L├¡nea 539: Shakira - Pa Tipos Como T├║
+   L├¡nea 573: Shakira - Pa Tipos Como T├║
+   L├¡nea 610: Shakira - Pa Tipos Como T├║
+   L├¡nea 644: Shakira - Pa Tipos Como T├║
+   L├¡nea 677: Shakira - Pa Tipos Como T├║
+   L├¡nea 714: Shakira - Pa Tipos Como T├║
+   L├¡nea 747: Shakira - Pa Tipos Como T├║
+   L├¡nea 817: Shakira - Pa Tipos Como T├║
+   L├¡nea 904: Shakira - Pa Tipos Como T├║
+   L├¡nea 937: Shakira - Pa Tipos Como T├║
+   L├¡nea 1009: Shakira - Pa Tipos Como T├║
+   L├¡nea 1022: Shakira - Pa Tipos Como T├║
+   L├¡nea 1041: Shakira - Pa Tipos Como T├║
+   L├¡nea 1059: Shakira - Pa Tipos Como T├║
+   L├¡nea 1091: Shakira - Pa Tipos Como T├║
+   L├¡nea 1147: Shakira - Pa Tipos Como T├║
+   L├¡nea 1165: Shakira - Pa Tipos Como T├║
+   L├¡nea 1175: Shakira - Pa Tipos Como T├║
+   L├¡nea 1207: Shakira - Pa Tipos Como T├║
+   L├¡nea 1225: Shakira - Pa Tipos Como T├║
+   L├¡nea 1245: Shakira - Pa Tipos Como T├║
+   L├¡nea 1268: Shakira - Pa Tipos Como T├║
+   L├¡nea 1319: Shakira - Pa Tipos Como T├║
+   L├¡nea 1353: Shakira - Pa Tipos Como T├║
+   L├¡nea 1371: Shakira - Pa Tipos Como T├║
+   L├¡nea 1405: Shakira - Pa Tipos Como T├║
+   L├¡nea 1442: Shakira - Pa Tipos Como T├║
+   L├¡nea 1459: Shakira - Pa Tipos Como T├║
+   L├¡nea 1529: Shakira - Pa Tipos Como T├║
+   L├¡nea 1544: Shakira - Pa Tipos Como T├║
+   L├¡nea 1561: Shakira - Pa Tipos Como T├║
+   L├¡nea 1613: Shakira - Pa Tipos Como T├║
+   L├¡nea 1625: Shakira - Pa Tipos Como T├║
+   L├¡nea 1648: Shakira - Pa Tipos Como T├║
+   L├¡nea 1697: Shakira - Pa Tipos Como T├║
+   L├¡nea 1839: Shakira - Pa Tipos Como T├║
+   L├¡nea 1873: Shakira - Pa Tipos Como T├║
+   L├¡nea 1925: Shakira - Pa Tipos Como T├║
+   L├¡nea 1960: Shakira - Pa Tipos Como T├║
+   L├¡nea 1977: Shakira - Pa Tipos Como T├║
+   L├¡nea 2048: Shakira - Pa Tipos Como T├║
+   L├¡nea 2082: Shakira - Pa Tipos Como T├║
+   L├¡nea 2117: Shakira - Pa Tipos Como T├║
+   L├¡nea 2164: Shakira - Pa Tipos Como T├║
+   L├¡nea 2182: Shakira - Pa Tipos Como T├║
+   L├¡nea 2228: Shakira - Pa Tipos Como T├║
+   L├¡nea 2301: Shakira - Pa Tipos Como T├║
+   L├¡nea 2359: Shakira - Pa Tipos Como T├║
+   L├¡nea 2412: Shakira - Pa Tipos Como T├║
+   L├¡nea 2474: Shakira - Pa Tipos Como T├║
+   L├¡nea 2541: Shakira - Pa Tipos Como T├║
+   L├¡nea 2582: Shakira - Pa Tipos Como T├║
+   L├¡nea 2599: Shakira - Pa Tipos Como T├║
+   L├¡nea 21: Shakira - Pa tipos como tu
+
+ΓÜá∩╕Å  ID 29 tiene 37 variantes:
+   L├¡nea 17: Luck Ra - La morocha
+   L├¡nea 47: Luck Ra - La morocha
+   L├¡nea 138: Luck Ra - La morocha
+   L├¡nea 191: Luck Ra - La morocha
+   L├¡nea 202: Luck Ra - La morocha
+   L├¡nea 437: Luck Ra - La morocha
+   L├¡nea 504: Luck Ra - La morocha
+   L├¡nea 591: Luck Ra - La morocha
+   L├¡nea 626: Luck Ra - La morocha
+   L├¡nea 640: Luck Ra - La morocha
+   L├¡nea 657: Luck Ra - La morocha
+   L├¡nea 696: Luck Ra - La morocha
+   L├¡nea 709: Luck Ra - La morocha
+   L├¡nea 744: Luck Ra - La morocha
+   L├¡nea 778: Luck Ra - La morocha
+   L├¡nea 795: Luck Ra - La morocha
+   L├¡nea 829: Luck Ra - La morocha
+   L├¡nea 868: Luck Ra - La morocha
+   L├¡nea 956: Luck Ra - La morocha
+   L├¡nea 1318: Luck Ra - La morocha
+   L├¡nea 1455: Luck Ra - La morocha
+   L├¡nea 1662: Luck Ra - La morocha
+   L├¡nea 1840: Luck Ra - La morocha
+   L├¡nea 1850: Luck Ra - La morocha
+   L├¡nea 1940: Luck Ra - La morocha
+   L├¡nea 2150: Luck Ra - La morocha
+   L├¡nea 2166: Luck Ra - La morocha
+   L├¡nea 2176: Luck Ra - La morocha
+   L├¡nea 2216: Luck Ra - La morocha
+   L├¡nea 2230: Luck Ra - La morocha
+   L├¡nea 2246: Luck Ra - La morocha
+   L├¡nea 2269: Luck Ra - La morocha
+   L├¡nea 2308: Luck Ra - La morocha
+   L├¡nea 2326: Luck Ra - La morocha
+   L├¡nea 2343: Luck Ra - La morocha
+   L├¡nea 2529: Luck Ra - La morocha
+   L├¡nea 2596: Luck Ra - La morocha
+
+ΓÜá∩╕Å  ID 30 tiene 38 variantes:
+   L├¡nea 73: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 229: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 367: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 402: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 627: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 679: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 697: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 738: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 887: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 932: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 957: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 991: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1130: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1217: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1269: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1286: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1373: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1477: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1494: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1543: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1553: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1581: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1667: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1737: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1771: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1789: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1806: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1875: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1927: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 1938: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2101: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2135: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2291: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2353: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2499: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2507: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2525: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+   L├¡nea 2545: Jos├⌐ Luis Perales - Un Velero Llamado Libertad
+
+ΓÜá∩╕Å  ID 31 tiene 37 variantes:
+   L├¡nea 83: Lola Indigo - La reina
+   L├¡nea 255: Lola Indigo - La reina
+   L├¡nea 345: Lola Indigo - La reina
+   L├¡nea 383: Lola Indigo - La reina
+   L├¡nea 393: Lola Indigo - La reina
+   L├¡nea 410: Lola Indigo - La reina
+   L├¡nea 499: Lola Indigo - La reina
+   L├¡nea 551: Lola Indigo - La reina
+   L├¡nea 603: Lola Indigo - La reina
+   L├¡nea 759: Lola Indigo - La reina
+   L├¡nea 967: Lola Indigo - La reina
+   L├¡nea 1019: Lola Indigo - La reina
+   L├¡nea 1258: Lola Indigo - La reina
+   L├¡nea 1279: Lola Indigo - La reina
+   L├¡nea 1331: Lola Indigo - La reina
+   L├¡nea 1435: Lola Indigo - La reina
+   L├¡nea 1483: Lola Indigo - La reina
+   L├¡nea 1539: Lola Indigo - La reina
+   L├¡nea 1591: Lola Indigo - La reina
+   L├¡nea 1606: Lola Indigo - La reina
+   L├¡nea 1643: Lola Indigo - La reina
+   L├¡nea 1747: Lola Indigo - La reina
+   L├¡nea 1799: Lola Indigo - La reina
+   L├¡nea 1817: Lola Indigo - La reina
+   L├¡nea 1903: Lola Indigo - La reina
+   L├¡nea 1918: Lola Indigo - La reina
+   L├¡nea 1955: Lola Indigo - La reina
+   L├¡nea 2007: Lola Indigo - La reina
+   L├¡nea 2059: Lola Indigo - La reina
+   L├¡nea 2111: Lola Indigo - La reina
+   L├¡nea 2143: Lola Indigo - La reina
+   L├¡nea 2204: Lola Indigo - La reina
+   L├¡nea 2394: Lola Indigo - La reina
+   L├¡nea 2423: Lola Indigo - La reina
+   L├¡nea 2475: Lola Indigo - La reina
+   L├¡nea 2527: Lola Indigo - La reina
+   L├¡nea 2579: Lola Indigo - La reina
+
+ΓÜá∩╕Å  ID 32 tiene 33 variantes:
+   L├¡nea 12: Melendi - Caminando por la vida
+   L├¡nea 168: Melendi - Caminando por la vida
+   L├¡nea 379: Melendi - Caminando por la vida
+   L├¡nea 554: Melendi - Caminando por la vida
+   L├¡nea 566: Melendi - Caminando por la vida
+   L├¡nea 688: Melendi - Caminando por la vida
+   L├¡nea 730: Melendi - Caminando por la vida
+   L├¡nea 792: Melendi - Caminando por la vida
+   L├¡nea 1208: Melendi - Caminando por la vida
+   L├¡nea 1317: Melendi - Caminando por la vida
+   L├¡nea 1330: Melendi - Caminando por la vida
+   L├¡nea 1348: Melendi - Caminando por la vida
+   L├¡nea 1476: Melendi - Caminando por la vida
+   L├¡nea 1493: Melendi - Caminando por la vida
+   L├¡nea 1511: Melendi - Caminando por la vida
+   L├¡nea 1537: Melendi - Caminando por la vida
+   L├¡nea 1563: Melendi - Caminando por la vida
+   L├¡nea 1728: Melendi - Caminando por la vida
+   L├¡nea 1769: Melendi - Caminando por la vida
+   L├¡nea 1884: Melendi - Caminando por la vida
+   L├¡nea 1887: Melendi - Caminando por la vida
+   L├¡nea 1936: Melendi - Caminando por la vida
+   L├¡nea 2043: Melendi - Caminando por la vida
+   L├¡nea 2060: Melendi - Caminando por la vida
+   L├¡nea 2096: Melendi - Caminando por la vida
+   L├¡nea 2114: Melendi - Caminando por la vida
+   L├¡nea 2134: Melendi - Caminando por la vida
+   L├¡nea 2144: Melendi - Caminando por la vida
+   L├¡nea 2352: Melendi - Caminando por la vida
+   L├¡nea 2458: Melendi - Caminando por la vida
+   L├¡nea 2473: Melendi - Caminando por la vida
+   L├¡nea 2492: Melendi - Caminando por la vida
+   L├¡nea 2508: Melendi - Caminando por la vida
+
+ΓÜá∩╕Å  ID 33 tiene 40 variantes:
+   L├¡nea 34: Proyecto Uno - El Tibur├│n
+   L├¡nea 53: Proyecto Uno - El Tibur├│n
+   L├¡nea 97: Proyecto Uno - El Tibur├│n
+   L├¡nea 136: Proyecto Uno - El Tibur├│n
+   L├¡nea 207: Proyecto Uno - El Tibur├│n
+   L├¡nea 642: Proyecto Uno - El Tibur├│n
+   L├¡nea 658: Proyecto Uno - El Tibur├│n
+   L├¡nea 861: Proyecto Uno - El Tibur├│n
+   L├¡nea 903: Proyecto Uno - El Tibur├│n
+   L├¡nea 913: Proyecto Uno - El Tibur├│n
+   L├¡nea 929: Proyecto Uno - El Tibur├│n
+   L├¡nea 1007: Proyecto Uno - El Tibur├│n
+   L├¡nea 1120: Proyecto Uno - El Tibur├│n
+   L├¡nea 1188: Proyecto Uno - El Tibur├│n
+   L├¡nea 1242: Proyecto Uno - El Tibur├│n
+   L├¡nea 1266: Proyecto Uno - El Tibur├│n
+   L├¡nea 1280: Proyecto Uno - El Tibur├│n
+   L├¡nea 1297: Proyecto Uno - El Tibur├│n
+   L├¡nea 1421: Proyecto Uno - El Tibur├│n
+   L├¡nea 1438: Proyecto Uno - El Tibur├│n
+   L├¡nea 1456: Proyecto Uno - El Tibur├│n
+   L├¡nea 1684: Proyecto Uno - El Tibur├│n
+   L├¡nea 1701: Proyecto Uno - El Tibur├│n
+   L├¡nea 1718: Proyecto Uno - El Tibur├│n
+   L├¡nea 1959: Proyecto Uno - El Tibur├│n
+   L├¡nea 1979: Proyecto Uno - El Tibur├│n
+   L├¡nea 1987: Proyecto Uno - El Tibur├│n
+   L├¡nea 2029: Proyecto Uno - El Tibur├│n
+   L├¡nea 2212: Proyecto Uno - El Tibur├│n
+   L├¡nea 2229: Proyecto Uno - El Tibur├│n
+   L├¡nea 2250: Proyecto Uno - El Tibur├│n
+   L├¡nea 2270: Proyecto Uno - El Tibur├│n
+   L├¡nea 2370: Proyecto Uno - El Tibur├│n
+   L├¡nea 2403: Proyecto Uno - El Tibur├│n
+   L├¡nea 2445: Proyecto Uno - El Tibur├│n
+   L├¡nea 2460: Proyecto Uno - El Tibur├│n
+   L├¡nea 2489: Proyecto Uno - El Tibur├│n
+   L├¡nea 2549: Proyecto Uno - El Tibur├│n
+   L├¡nea 2565: Proyecto Uno - El Tibur├│n
+   L├¡nea 2593: Proyecto Uno - El Tibur├│n
+
+ΓÜá∩╕Å  ID 34 tiene 43 variantes:
+   L├¡nea 115: Estopa - Por la Raja de tu Falda
+   L├¡nea 134: Estopa - Por la Raja de tu Falda
+   L├¡nea 156: Estopa - Por la Raja de tu Falda
+   L├¡nea 186: Estopa - Por la Raja de tu Falda
+   L├¡nea 203: Estopa - Por la Raja de tu Falda
+   L├¡nea 238: Estopa - Por la Raja de tu Falda
+   L├¡nea 253: Estopa - Por la Raja de tu Falda
+   L├¡nea 279: Estopa - Por la Raja de tu Falda
+   L├¡nea 290: Estopa - Por la Raja de tu Falda
+   L├¡nea 307: Estopa - Por la Raja de tu Falda
+   L├¡nea 332: Estopa - Por la Raja de tu Falda
+   L├¡nea 362: Estopa - Por la Raja de tu Falda
+   L├¡nea 394: Estopa - Por la Raja de tu Falda
+   L├¡nea 417: Estopa - Por la Raja de tu Falda
+   L├¡nea 427: Estopa - Por la Raja de tu Falda
+   L├¡nea 444: Estopa - Por la Raja de tu Falda
+   L├¡nea 469: Estopa - Por la Raja de tu Falda
+   L├¡nea 484: Estopa - Por la Raja de tu Falda
+   L├¡nea 512: Estopa - Por la Raja de tu Falda
+   L├¡nea 530: Estopa - Por la Raja de tu Falda
+   L├¡nea 564: Estopa - Por la Raja de tu Falda
+   L├¡nea 583: Estopa - Por la Raja de tu Falda
+   L├¡nea 706: Estopa - Por la Raja de tu Falda
+   L├¡nea 846: Estopa - Por la Raja de tu Falda
+   L├¡nea 863: Estopa - Por la Raja de tu Falda
+   L├¡nea 880: Estopa - Por la Raja de tu Falda
+   L├¡nea 1023: Estopa - Por la Raja de tu Falda
+   L├¡nea 1039: Estopa - Por la Raja de tu Falda
+   L├¡nea 1162: Estopa - Por la Raja de tu Falda
+   L├¡nea 1179: Estopa - Por la Raja de tu Falda
+   L├¡nea 1213: Estopa - Por la Raja de tu Falda
+   L├¡nea 1224: Estopa - Por la Raja de tu Falda
+   L├¡nea 1382: Estopa - Por la Raja de tu Falda
+   L├¡nea 1399: Estopa - Por la Raja de tu Falda
+   L├¡nea 1536: Estopa - Por la Raja de tu Falda
+   L├¡nea 1587: Estopa - Por la Raja de tu Falda
+   L├¡nea 1609: Estopa - Por la Raja de tu Falda
+   L├¡nea 1731: Estopa - Por la Raja de tu Falda
+   L├¡nea 1745: Estopa - Por la Raja de tu Falda
+   L├¡nea 1764: Estopa - Por la Raja de tu Falda
+   L├¡nea 2356: Estopa - Por la Raja de tu Falda
+   L├¡nea 2375: Estopa - Por la Raja de tu Falda
+   L├¡nea 2392: Estopa - Por la Raja de tu Falda
+
+ΓÜá∩╕Å  ID 35 tiene 38 variantes:
+   L├¡nea 745: Las ketchup - Asereje
+   L├¡nea 783: Las ketchup - Asereje
+   L├¡nea 818: Las ketchup - Asereje
+   L├¡nea 830: Las ketchup - Asereje
+   L├¡nea 852: Las ketchup - Asereje
+   L├¡nea 867: Las ketchup - Asereje
+   L├¡nea 970: Las ketchup - Asereje
+   L├¡nea 989: Las ketchup - Asereje
+   L├¡nea 1060: Las ketchup - Asereje
+   L├¡nea 1078: Las ketchup - Asereje
+   L├¡nea 1095: Las ketchup - Asereje
+   L├¡nea 1112: Las ketchup - Asereje
+   L├¡nea 1139: Las ketchup - Asereje
+   L├¡nea 1154: Las ketchup - Asereje
+   L├¡nea 1171: Las ketchup - Asereje
+   L├¡nea 1190: Las ketchup - Asereje
+   L├¡nea 1231: Las ketchup - Asereje
+   L├¡nea 1248: Las ketchup - Asereje
+   L├¡nea 1292: Las ketchup - Asereje
+   L├¡nea 1320: Las ketchup - Asereje
+   L├¡nea 1337: Las ketchup - Asereje
+   L├¡nea 1344: Las ketchup - Asereje
+   L├¡nea 1595: Las ketchup - Asereje
+   L├¡nea 1610: Las ketchup - Asereje
+   L├¡nea 1628: Las ketchup - Asereje
+   L├¡nea 1664: Las ketchup - Asereje
+   L├¡nea 1749: Las ketchup - Asereje
+   L├¡nea 1821: Las ketchup - Asereje
+   L├¡nea 1837: Las ketchup - Asereje
+   L├¡nea 1858: Las ketchup - Asereje
+   L├¡nea 2045: Las ketchup - Asereje
+   L├¡nea 2072: Las ketchup - Asereje
+   L├¡nea 2116: Las ketchup - Asereje
+   L├¡nea 2159: Las ketchup - Asereje
+   L├¡nea 2177: Las ketchup - Asereje
+   L├¡nea 2299: Las ketchup - Asereje
+   L├¡nea 2317: Las ketchup - Asereje
+   L├¡nea 2332: Las ketchup - Asereje
+
+ΓÜá∩╕Å  ID 36 tiene 42 variantes:
+   L├¡nea 589: Karol G - Si antes te hubiera conocido
+   L├¡nea 600: Karol G - Si antes te hubiera conocido
+   L├¡nea 617: Karol G - Si antes te hubiera conocido
+   L├¡nea 724: Karol G - Si antes te hubiera conocido
+   L├¡nea 800: Karol G - Si antes te hubiera conocido
+   L├¡nea 824: Karol G - Si antes te hubiera conocido
+   L├¡nea 850: Karol G - Si antes te hubiera conocido
+   L├¡nea 859: Karol G - Si antes te hubiera conocido
+   L├¡nea 882: Karol G - Si antes te hubiera conocido
+   L├¡nea 951: Karol G - Si antes te hubiera conocido
+   L├¡nea 964: Karol G - Si antes te hubiera conocido
+   L├¡nea 1110: Karol G - Si antes te hubiera conocido
+   L├¡nea 1137: Karol G - Si antes te hubiera conocido
+   L├¡nea 1157: Karol G - Si antes te hubiera conocido
+   L├¡nea 1181: Karol G - Si antes te hubiera conocido
+   L├¡nea 1198: Karol G - Si antes te hubiera conocido
+   L├¡nea 1261: Karol G - Si antes te hubiera conocido
+   L├¡nea 1329: Karol G - Si antes te hubiera conocido
+   L├¡nea 1475: Karol G - Si antes te hubiera conocido
+   L├¡nea 1486: Karol G - Si antes te hubiera conocido
+   L├¡nea 1503: Karol G - Si antes te hubiera conocido
+   L├¡nea 1572: Karol G - Si antes te hubiera conocido
+   L├¡nea 1630: Karol G - Si antes te hubiera conocido
+   L├¡nea 1640: Karol G - Si antes te hubiera conocido
+   L├¡nea 1730: Karol G - Si antes te hubiera conocido
+   L├¡nea 1886: Karol G - Si antes te hubiera conocido
+   L├¡nea 1900: Karol G - Si antes te hubiera conocido
+   L├¡nea 1922: Karol G - Si antes te hubiera conocido
+   L├¡nea 2077: Karol G - Si antes te hubiera conocido
+   L├¡nea 2263: Karol G - Si antes te hubiera conocido
+   L├¡nea 2289: Karol G - Si antes te hubiera conocido
+   L├¡nea 2409: Karol G - Si antes te hubiera conocido
+   L├¡nea 2425: Karol G - Si antes te hubiera conocido
+   L├¡nea 2447: Karol G - Si antes te hubiera conocido
+   L├¡nea 2461: Karol G - Si antes te hubiera conocido
+   L├¡nea 2481: Karol G - Si antes te hubiera conocido
+   L├¡nea 2497: Karol G - Si antes te hubiera conocido
+   L├¡nea 2516: Karol G - Si antes te hubiera conocido
+   L├¡nea 2534: Karol G - Si antes te hubiera conocido
+   L├¡nea 2546: Karol G - Si antes te hubiera conocido
+   L├¡nea 2561: Karol G - Si antes te hubiera conocido
+   L├¡nea 2601: Karol G - Si antes te hubiera conocido
+
+ΓÜá∩╕Å  ID 37 tiene 23 variantes:
+   L├¡nea 150: La fiesta - Quiero montarme en tu velero
+   L├¡nea 187: La fiesta - Quiero montarme en tu velero
+   L├¡nea 240: La fiesta - Quiero montarme en tu velero
+   L├¡nea 256: La fiesta - Quiero montarme en tu velero
+   L├¡nea 292: La fiesta - Quiero montarme en tu velero
+   L├¡nea 358: La fiesta - Quiero montarme en tu velero
+   L├¡nea 376: La fiesta - Quiero montarme en tu velero
+   L├¡nea 483: La fiesta - Quiero montarme en tu velero
+   L├¡nea 500: La fiesta - Quiero montarme en tu velero
+   L├¡nea 555: La fiesta - Quiero montarme en tu velero
+   L├¡nea 569: La fiesta - Quiero montarme en tu velero
+   L├¡nea 590: La fiesta - Quiero montarme en tu velero
+   L├¡nea 607: La fiesta - Quiero montarme en tu velero
+   L├¡nea 621: La fiesta - Quiero montarme en tu velero
+   L├¡nea 634: La fiesta - Quiero montarme en tu velero
+   L├¡nea 656: La fiesta - Quiero montarme en tu velero
+   L├¡nea 672: La fiesta - Quiero montarme en tu velero
+   L├¡nea 708: La fiesta - Quiero montarme en tu velero
+   L├¡nea 743: La fiesta - Quiero montarme en tu velero
+   L├¡nea 763: La fiesta - Quiero montarme en tu velero
+   L├¡nea 773: La fiesta - Quiero montarme en tu velero
+   L├¡nea 812: La fiesta - Quiero montarme en tu velero
+   L├¡nea 1397: La fiesta - Quiero montarme en tu velero
+
+ΓÜá∩╕Å  ID 38 tiene 25 variantes:
+   L├¡nea 27: David Civera - Que la detengan
+   L├¡nea 55: David Civera - Que la detengan
+   L├¡nea 671: David Civera - Que la detengan
+   L├¡nea 902: David Civera - Que la detengan
+   L├¡nea 911: David Civera - Que la detengan
+   L├¡nea 1423: David Civera - Que la detengan
+   L├¡nea 1431: David Civera - Que la detengan
+   L├¡nea 1674: David Civera - Que la detengan
+   L├¡nea 1700: David Civera - Que la detengan
+   L├¡nea 1709: David Civera - Que la detengan
+   L├¡nea 1937: David Civera - Que la detengan
+   L├¡nea 1951: David Civera - Que la detengan
+   L├¡nea 1974: David Civera - Que la detengan
+   L├¡nea 1994: David Civera - Que la detengan
+   L├¡nea 2012: David Civera - Que la detengan
+   L├¡nea 2021: David Civera - Que la detengan
+   L├¡nea 2256: David Civera - Que la detengan
+   L├¡nea 2358: David Civera - Que la detengan
+   L├¡nea 2367: David Civera - Que la detengan
+   L├¡nea 2384: David Civera - Que la detengan
+   L├¡nea 2410: David Civera - Que la detengan
+   L├¡nea 2436: David Civera - Que la detengan
+   L├¡nea 2457: David Civera - Que la detengan
+   L├¡nea 2478: David Civera - Que la detengan
+   L├¡nea 2514: David Civera - Que la detengan
+
+ΓÜá∩╕Å  ID 39 tiene 30 variantes:
+   L├¡nea 70: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 82: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 124: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 151: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 170: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 222: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 245: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 254: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 274: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 294: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 326: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 346: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 400: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 409: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 430: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 446: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 485: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 502: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 521: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 534: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1002: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1033: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1366: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1390: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1527: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1555: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 1990: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 2003: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 2198: Paulina Rubio - Y yo sigo aqu├¡
+   L├¡nea 2222: Paulina Rubio - Y yo sigo aqu├¡
+
+ΓÜá∩╕Å  ID 40 tiene 36 variantes:
+   L├¡nea 414: Vicco - Nochentera
+   L├¡nea 466: Vicco - Nochentera
+   L├¡nea 515: Vicco - Nochentera
+   L├¡nea 558: Vicco - Nochentera
+   L├¡nea 570: Vicco - Nochentera
+   L├¡nea 592: Vicco - Nochentera
+   L├¡nea 599: Vicco - Nochentera
+   L├¡nea 622: Vicco - Nochentera
+   L├¡nea 710: Vicco - Nochentera
+   L├¡nea 766: Vicco - Nochentera
+   L├¡nea 797: Vicco - Nochentera
+   L├¡nea 876: Vicco - Nochentera
+   L├¡nea 986: Vicco - Nochentera
+   L├¡nea 1058: Vicco - Nochentera
+   L├¡nea 1084: Vicco - Nochentera
+   L├¡nea 1129: Vicco - Nochentera
+   L├¡nea 1142: Vicco - Nochentera
+   L├¡nea 1191: Vicco - Nochentera
+   L├¡nea 1232: Vicco - Nochentera
+   L├¡nea 1246: Vicco - Nochentera
+   L├¡nea 1293: Vicco - Nochentera
+   L├¡nea 1314: Vicco - Nochentera
+   L├¡nea 1346: Vicco - Nochentera
+   L├¡nea 1368: Vicco - Nochentera
+   L├¡nea 1402: Vicco - Nochentera
+   L├¡nea 1469: Vicco - Nochentera
+   L├¡nea 1506: Vicco - Nochentera
+   L├¡nea 1524: Vicco - Nochentera
+   L├¡nea 1546: Vicco - Nochentera
+   L├¡nea 1590: Vicco - Nochentera
+   L├¡nea 1788: Vicco - Nochentera
+   L├¡nea 1818: Vicco - Nochentera
+   L├¡nea 1847: Vicco - Nochentera
+   L├¡nea 1871: Vicco - Nochentera
+   L├¡nea 2097: Vicco - Nochentera
+   L├¡nea 2124: Vicco - Nochentera
+
+ΓÜá∩╕Å  ID 41 tiene 42 variantes:
+   L├¡nea 105: Camela - Cuando zarpa el amor
+   L├¡nea 228: Camela - Cuando zarpa el amor
+   L├¡nea 310: Camela - Cuando zarpa el amor
+   L├¡nea 328: Camela - Cuando zarpa el amor
+   L├¡nea 339: Camela - Cuando zarpa el amor
+   L├¡nea 397: Camela - Cuando zarpa el amor
+   L├¡nea 454: Camela - Cuando zarpa el amor
+   L├¡nea 523: Camela - Cuando zarpa el amor
+   L├¡nea 547: Camela - Cuando zarpa el amor
+   L├¡nea 608: Camela - Cuando zarpa el amor
+   L├¡nea 746: Camela - Cuando zarpa el amor
+   L├¡nea 847: Camela - Cuando zarpa el amor
+   L├¡nea 864: Camela - Cuando zarpa el amor
+   L├¡nea 881: Camela - Cuando zarpa el amor
+   L├¡nea 949: Camela - Cuando zarpa el amor
+   L├¡nea 1015: Camela - Cuando zarpa el amor
+   L├¡nea 1067: Camela - Cuando zarpa el amor
+   L├¡nea 1088: Camela - Cuando zarpa el amor
+   L├¡nea 1108: Camela - Cuando zarpa el amor
+   L├¡nea 1119: Camela - Cuando zarpa el amor
+   L├¡nea 1216: Camela - Cuando zarpa el amor
+   L├¡nea 1223: Camela - Cuando zarpa el amor
+   L├¡nea 1275: Camela - Cuando zarpa el amor
+   L├¡nea 1303: Camela - Cuando zarpa el amor
+   L├¡nea 1380: Camela - Cuando zarpa el amor
+   L├¡nea 1580: Camela - Cuando zarpa el amor
+   L├¡nea 1615: Camela - Cuando zarpa el amor
+   L├¡nea 1639: Camela - Cuando zarpa el amor
+   L├¡nea 1736: Camela - Cuando zarpa el amor
+   L├¡nea 1743: Camela - Cuando zarpa el amor
+   L├¡nea 1795: Camela - Cuando zarpa el amor
+   L├¡nea 1838: Camela - Cuando zarpa el amor
+   L├¡nea 1885: Camela - Cuando zarpa el amor
+   L├¡nea 1899: Camela - Cuando zarpa el amor
+   L├¡nea 2031: Camela - Cuando zarpa el amor
+   L├¡nea 2038: Camela - Cuando zarpa el amor
+   L├¡nea 2080: Camela - Cuando zarpa el amor
+   L├¡nea 2125: Camela - Cuando zarpa el amor
+   L├¡nea 2167: Camela - Cuando zarpa el amor
+   L├¡nea 2200: Camela - Cuando zarpa el amor
+   L├¡nea 2315: Camela - Cuando zarpa el amor
+   L├¡nea 2575: Camela - Cuando zarpa el amor
+
+ΓÜá∩╕Å  ID 42 tiene 54 variantes:
+   L├¡nea 38: Bab Bunny - Yo perreo sola
+   L├¡nea 52: Bab Bunny - Yo perreo sola
+   L├¡nea 374: Bab Bunny - Yo perreo sola
+   L├¡nea 448: Bab Bunny - Yo perreo sola
+   L├¡nea 478: Bab Bunny - Yo perreo sola
+   L├¡nea 535: Bab Bunny - Yo perreo sola
+   L├¡nea 548: Bab Bunny - Yo perreo sola
+   L├¡nea 662: Bab Bunny - Yo perreo sola
+   L├¡nea 669: Bab Bunny - Yo perreo sola
+   L├¡nea 757: Bab Bunny - Yo perreo sola
+   L├¡nea 774: Bab Bunny - Yo perreo sola
+   L├¡nea 798: Bab Bunny - Yo perreo sola
+   L├¡nea 811: Bab Bunny - Yo perreo sola
+   L├¡nea 842: Bab Bunny - Yo perreo sola
+   L├¡nea 895: Bab Bunny - Yo perreo sola
+   L├¡nea 922: Bab Bunny - Yo perreo sola
+   L├¡nea 980: Bab Bunny - Yo perreo sola
+   L├¡nea 1050: Bab Bunny - Yo perreo sola
+   L├¡nea 1085: Bab Bunny - Yo perreo sola
+   L├¡nea 1173: Bab Bunny - Yo perreo sola
+   L├¡nea 1234: Bab Bunny - Yo perreo sola
+   L├¡nea 1244: Bab Bunny - Yo perreo sola
+   L├¡nea 1439: Bab Bunny - Yo perreo sola
+   L├¡nea 1629: Bab Bunny - Yo perreo sola
+   L├¡nea 1656: Bab Bunny - Yo perreo sola
+   L├¡nea 1677: Bab Bunny - Yo perreo sola
+   L├¡nea 1702: Bab Bunny - Yo perreo sola
+   L├¡nea 1823: Bab Bunny - Yo perreo sola
+   L├¡nea 1868: Bab Bunny - Yo perreo sola
+   L├¡nea 1954: Bab Bunny - Yo perreo sola
+   L├¡nea 1969: Bab Bunny - Yo perreo sola
+   L├¡nea 2014: Bab Bunny - Yo perreo sola
+   L├¡nea 2027: Bab Bunny - Yo perreo sola
+   L├¡nea 2046: Bab Bunny - Yo perreo sola
+   L├¡nea 2061: Bab Bunny - Yo perreo sola
+   L├¡nea 2073: Bab Bunny - Yo perreo sola
+   L├¡nea 2187: Bab Bunny - Yo perreo sola
+   L├¡nea 2247: Bab Bunny - Yo perreo sola
+   L├¡nea 2274: Bab Bunny - Yo perreo sola
+   L├¡nea 2281: Bab Bunny - Yo perreo sola
+   L├¡nea 2302: Bab Bunny - Yo perreo sola
+   L├¡nea 2378: Bab Bunny - Yo perreo sola
+   L├¡nea 2387: Bab Bunny - Yo perreo sola
+   L├¡nea 2402: Bab Bunny - Yo perreo sola
+   L├¡nea 2421: Bab Bunny - Yo perreo sola
+   L├¡nea 2437: Bab Bunny - Yo perreo sola
+   L├¡nea 2472: Bab Bunny - Yo perreo sola
+   L├¡nea 2513: Bab Bunny - Yo perreo sola
+   L├¡nea 2540: Bab Bunny - Yo perreo sola
+   L├¡nea 2584: Bab Bunny - Yo perreo sola
+   L├¡nea 2426: King Africa - Bomba
+   L├¡nea 2506: King Africa - Bomba
+   L├¡nea 2523: King Africa - Bomba
+   L├¡nea 2544: King Africa - Bomba
+
+ΓÜá∩╕Å  ID 43 tiene 41 variantes:
+   L├¡nea 311: El simbolo - Levantando las manos
+   L├¡nea 360: El simbolo - Levantando las manos
+   L├¡nea 462: El simbolo - Levantando las manos
+   L├¡nea 506: El simbolo - Levantando las manos
+   L├¡nea 575: El simbolo - Levantando las manos
+   L├¡nea 623: El simbolo - Levantando las manos
+   L├¡nea 727: El simbolo - Levantando las manos
+   L├¡nea 777: El simbolo - Levantando las manos
+   L├¡nea 815: El simbolo - Levantando las manos
+   L├¡nea 879: El simbolo - Levantando las manos
+   L├¡nea 988: El simbolo - Levantando las manos
+   L├¡nea 1075: El simbolo - Levantando las manos
+   L├¡nea 1124: El simbolo - Levantando las manos
+   L├¡nea 1144: El simbolo - Levantando las manos
+   L├¡nea 1195: El simbolo - Levantando las manos
+   L├¡nea 1214: El simbolo - Levantando las manos
+   L├¡nea 1263: El simbolo - Levantando las manos
+   L├¡nea 1300: El simbolo - Levantando las manos
+   L├¡nea 1355: El simbolo - Levantando las manos
+   L├¡nea 1403: El simbolo - Levantando las manos
+   L├¡nea 1491: El simbolo - Levantando las manos
+   L├¡nea 1560: El simbolo - Levantando las manos
+   L├¡nea 1570: El simbolo - Levantando las manos
+   L├¡nea 1611: El simbolo - Levantando las manos
+   L├¡nea 1657: El simbolo - Levantando las manos
+   L├¡nea 1675: El simbolo - Levantando las manos
+   L├¡nea 1768: El simbolo - Levantando las manos
+   L├¡nea 1786: El simbolo - Levantando las manos
+   L├¡nea 1800: El simbolo - Levantando las manos
+   L├¡nea 1869: El simbolo - Levantando las manos
+   L├¡nea 1907: El simbolo - Levantando las manos
+   L├¡nea 2058: El simbolo - Levantando las manos
+   L├¡nea 2131: El simbolo - Levantando las manos
+   L├¡nea 2303: El simbolo - Levantando las manos
+   L├¡nea 2325: El simbolo - Levantando las manos
+   L├¡nea 2336: El simbolo - Levantando las manos
+   L├¡nea 2374: El simbolo - Levantando las manos
+   L├¡nea 2391: El simbolo - Levantando las manos
+   L├¡nea 2443: El simbolo - Levantando las manos
+   L├¡nea 2454: El simbolo - Levantando las manos
+   L├¡nea 2597: El simbolo - Levantando las manos
+
+ΓÜá∩╕Å  ID 44 tiene 42 variantes:
+   L├¡nea 208: David Bisbal - Si Tu la Quieres
+   L├¡nea 260: David Bisbal - Si Tu la Quieres
+   L├¡nea 312: David Bisbal - Si Tu la Quieres
+   L├¡nea 364: David Bisbal - Si Tu la Quieres
+   L├¡nea 416: David Bisbal - Si Tu la Quieres
+   L├¡nea 471: David Bisbal - Si Tu la Quieres
+   L├¡nea 520: David Bisbal - Si Tu la Quieres
+   L├¡nea 567: David Bisbal - Si Tu la Quieres
+   L├¡nea 588: David Bisbal - Si Tu la Quieres
+   L├¡nea 711: David Bisbal - Si Tu la Quieres
+   L├¡nea 742: David Bisbal - Si Tu la Quieres
+   L├¡nea 828: David Bisbal - Si Tu la Quieres
+   L├¡nea 860: David Bisbal - Si Tu la Quieres
+   L├¡nea 966: David Bisbal - Si Tu la Quieres
+   L├¡nea 1040: David Bisbal - Si Tu la Quieres
+   L├¡nea 1092: David Bisbal - Si Tu la Quieres
+   L├¡nea 1126: David Bisbal - Si Tu la Quieres
+   L├¡nea 1196: David Bisbal - Si Tu la Quieres
+   L├¡nea 1241: David Bisbal - Si Tu la Quieres
+   L├¡nea 1277: David Bisbal - Si Tu la Quieres
+   L├¡nea 1316: David Bisbal - Si Tu la Quieres
+   L├¡nea 1352: David Bisbal - Si Tu la Quieres
+   L├¡nea 1404: David Bisbal - Si Tu la Quieres
+   L├¡nea 1466: David Bisbal - Si Tu la Quieres
+   L├¡nea 1523: David Bisbal - Si Tu la Quieres
+   L├¡nea 1604: David Bisbal - Si Tu la Quieres
+   L├¡nea 1646: David Bisbal - Si Tu la Quieres
+   L├¡nea 1750: David Bisbal - Si Tu la Quieres
+   L├¡nea 1779: David Bisbal - Si Tu la Quieres
+   L├¡nea 1855: David Bisbal - Si Tu la Quieres
+   L├¡nea 1924: David Bisbal - Si Tu la Quieres
+   L├¡nea 2028: David Bisbal - Si Tu la Quieres
+   L├¡nea 2063: David Bisbal - Si Tu la Quieres
+   L├¡nea 2090: David Bisbal - Si Tu la Quieres
+   L├¡nea 2132: David Bisbal - Si Tu la Quieres
+   L├¡nea 2145: David Bisbal - Si Tu la Quieres
+   L├¡nea 2236: David Bisbal - Si Tu la Quieres
+   L├¡nea 2288: David Bisbal - Si Tu la Quieres
+   L├¡nea 2339: David Bisbal - Si Tu la Quieres
+   L├¡nea 2444: David Bisbal - Si Tu la Quieres
+   L├¡nea 2600: David Bisbal - Si Tu la Quieres
+   L├¡nea 65: David Bisbal - Si tu quieres
+
+ΓÜá∩╕Å  ID 45 tiene 41 variantes:
+   L├¡nea 15: King Africa - Bomba
+   L├¡nea 35: King Africa - Bomba
+   L├¡nea 48: King Africa - Bomba
+   L├¡nea 67: King Africa - Bomba
+   L├¡nea 80: King Africa - Bomba
+   L├¡nea 119: King Africa - Bomba
+   L├¡nea 131: King Africa - Bomba
+   L├¡nea 149: King Africa - Bomba
+   L├¡nea 171: King Africa - Bomba
+   L├¡nea 190: King Africa - Bomba
+   L├¡nea 201: King Africa - Bomba
+   L├¡nea 223: King Africa - Bomba
+   L├¡nea 241: King Africa - Bomba
+   L├¡nea 327: King Africa - Bomba
+   L├¡nea 341: King Africa - Bomba
+   L├¡nea 639: King Africa - Bomba
+   L├¡nea 653: King Africa - Bomba
+   L├¡nea 670: King Africa - Bomba
+   L├¡nea 899: King Africa - Bomba
+   L├¡nea 931: King Africa - Bomba
+   L├¡nea 1004: King Africa - Bomba
+   L├¡nea 1018: King Africa - Bomba
+   L├¡nea 1035: King Africa - Bomba
+   L├¡nea 1419: King Africa - Bomba
+   L├¡nea 1451: King Africa - Bomba
+   L├¡nea 1679: King Africa - Bomba
+   L├¡nea 1691: King Africa - Bomba
+   L├¡nea 1716: King Africa - Bomba
+   L├¡nea 1939: King Africa - Bomba
+   L├¡nea 1953: King Africa - Bomba
+   L├¡nea 1976: King Africa - Bomba
+   L├¡nea 1991: King Africa - Bomba
+   L├¡nea 2004: King Africa - Bomba
+   L├¡nea 2199: King Africa - Bomba
+   L├¡nea 2215: King Africa - Bomba
+   L├¡nea 2231: King Africa - Bomba
+   L├¡nea 2355: King Africa - Bomba
+   L├¡nea 2368: King Africa - Bomba
+   L├¡nea 2407: King Africa - Bomba
+   L├¡nea 2459: King Africa - Bomba
+   L├¡nea 2511: King Africa - Bomba
+
+ΓÜá∩╕Å  ID 47 tiene 43 variantes:
+   L├¡nea 32: Sebastian Yatra - Tacones rojos
+   L├¡nea 84: Sebastian Yatra - Tacones rojos
+   L├¡nea 100: Sebastian Yatra - Tacones rojos
+   L├¡nea 185: Sebastian Yatra - Tacones rojos
+   L├¡nea 224: Sebastian Yatra - Tacones rojos
+   L├¡nea 237: Sebastian Yatra - Tacones rojos
+   L├¡nea 263: Sebastian Yatra - Tacones rojos
+   L├¡nea 295: Sebastian Yatra - Tacones rojos
+   L├¡nea 347: Sebastian Yatra - Tacones rojos
+   L├¡nea 413: Sebastian Yatra - Tacones rojos
+   L├¡nea 450: Sebastian Yatra - Tacones rojos
+   L├¡nea 497: Sebastian Yatra - Tacones rojos
+   L├¡nea 536: Sebastian Yatra - Tacones rojos
+   L├¡nea 690: Sebastian Yatra - Tacones rojos
+   L├¡nea 721: Sebastian Yatra - Tacones rojos
+   L├¡nea 760: Sebastian Yatra - Tacones rojos
+   L├¡nea 1020: Sebastian Yatra - Tacones rojos
+   L├¡nea 1054: Sebastian Yatra - Tacones rojos
+   L├¡nea 1089: Sebastian Yatra - Tacones rojos
+   L├¡nea 1259: Sebastian Yatra - Tacones rojos
+   L├¡nea 1282: Sebastian Yatra - Tacones rojos
+   L├¡nea 1335: Sebastian Yatra - Tacones rojos
+   L├¡nea 1349: Sebastian Yatra - Tacones rojos
+   L├¡nea 1383: Sebastian Yatra - Tacones rojos
+   L├¡nea 1540: Sebastian Yatra - Tacones rojos
+   L├¡nea 1577: Sebastian Yatra - Tacones rojos
+   L├¡nea 1588: Sebastian Yatra - Tacones rojos
+   L├¡nea 1622: Sebastian Yatra - Tacones rojos
+   L├¡nea 1627: Sebastian Yatra - Tacones rojos
+   L├¡nea 1641: Sebastian Yatra - Tacones rojos
+   L├¡nea 1647: Sebastian Yatra - Tacones rojos
+   L├¡nea 1661: Sebastian Yatra - Tacones rojos
+   L├¡nea 1681: Sebastian Yatra - Tacones rojos
+   L├¡nea 1719: Sebastian Yatra - Tacones rojos
+   L├¡nea 1831: Sebastian Yatra - Tacones rojos
+   L├¡nea 1849: Sebastian Yatra - Tacones rojos
+   L├¡nea 1865: Sebastian Yatra - Tacones rojos
+   L├¡nea 1992: Sebastian Yatra - Tacones rojos
+   L├¡nea 2098: Sebastian Yatra - Tacones rojos
+   L├¡nea 2115: Sebastian Yatra - Tacones rojos
+   L├¡nea 2194: Sebastian Yatra - Tacones rojos
+   L├¡nea 2213: Sebastian Yatra - Tacones rojos
+   L├¡nea 2239: Sebastian Yatra - Tacones rojos
+
+ΓÜá∩╕Å  ID 48 tiene 44 variantes:
+   L├¡nea 13: Juan Magan - Ayer la vi
+   L├¡nea 28: Juan Magan - Ayer la vi
+   L├¡nea 62: Juan Magan - Ayer la vi
+   L├¡nea 86: Juan Magan - Ayer la vi
+   L├¡nea 122: Juan Magan - Ayer la vi
+   L├¡nea 139: Juan Magan - Ayer la vi
+   L├¡nea 167: Juan Magan - Ayer la vi
+   L├¡nea 219: Juan Magan - Ayer la vi
+   L├¡nea 243: Juan Magan - Ayer la vi
+   L├¡nea 275: Juan Magan - Ayer la vi
+   L├¡nea 289: Juan Magan - Ayer la vi
+   L├¡nea 308: Juan Magan - Ayer la vi
+   L├¡nea 323: Juan Magan - Ayer la vi
+   L├¡nea 344: Juan Magan - Ayer la vi
+   L├¡nea 375: Juan Magan - Ayer la vi
+   L├¡nea 392: Juan Magan - Ayer la vi
+   L├¡nea 431: Juan Magan - Ayer la vi
+   L├¡nea 451: Juan Magan - Ayer la vi
+   L├¡nea 479: Juan Magan - Ayer la vi
+   L├¡nea 540: Juan Magan - Ayer la vi
+   L├¡nea 552: Juan Magan - Ayer la vi
+   L├¡nea 604: Juan Magan - Ayer la vi
+   L├¡nea 638: Juan Magan - Ayer la vi
+   L├¡nea 655: Juan Magan - Ayer la vi
+   L├¡nea 691: Juan Magan - Ayer la vi
+   L├¡nea 722: Juan Magan - Ayer la vi
+   L├¡nea 739: Juan Magan - Ayer la vi
+   L├¡nea 776: Juan Magan - Ayer la vi
+   L├¡nea 791: Juan Magan - Ayer la vi
+   L├¡nea 826: Juan Magan - Ayer la vi
+   L├¡nea 843: Juan Magan - Ayer la vi
+   L├¡nea 999: Juan Magan - Ayer la vi
+   L├¡nea 1017: Juan Magan - Ayer la vi
+   L├¡nea 1159: Juan Magan - Ayer la vi
+   L├¡nea 1172: Juan Magan - Ayer la vi
+   L├¡nea 1211: Juan Magan - Ayer la vi
+   L├¡nea 1315: Juan Magan - Ayer la vi
+   L├¡nea 1332: Juan Magan - Ayer la vi
+   L├¡nea 1363: Juan Magan - Ayer la vi
+   L├¡nea 1384: Juan Magan - Ayer la vi
+   L├¡nea 1400: Juan Magan - Ayer la vi
+   L├¡nea 1415: Juan Magan - Ayer la vi
+   L├¡nea 1433: Juan Magan - Ayer la vi
+   L├¡nea 1449: Juan Magan - Ayer la vi
+
+====================================================================================================
+AN├üLISIS DE POSIBLES ERRORES
+====================================================================================================
+
+ΓÜá∩╕Å  ID 42 encontrado:
+   L├¡nea 1823: Bab Bunny - Yo perreo sola
+   L├¡nea 2274: Bab Bunny - Yo perreo sola
+   L├¡nea 2302: Bab Bunny - Yo perreo sola
+   L├¡nea 2402: Bab Bunny - Yo perreo sola
+   L├¡nea 1656: Bab Bunny - Yo perreo sola
+   L├¡nea 895: Bab Bunny - Yo perreo sola
+   L├¡nea 980: Bab Bunny - Yo perreo sola
+   L├¡nea 2027: Bab Bunny - Yo perreo sola
+   L├¡nea 2061: Bab Bunny - Yo perreo sola
+   L├¡nea 1439: Bab Bunny - Yo perreo sola
+   L├¡nea 478: Bab Bunny - Yo perreo sola
+   L├¡nea 2014: Bab Bunny - Yo perreo sola
+   L├¡nea 52: Bab Bunny - Yo perreo sola
+   L├¡nea 2523: King Africa - Bomba
+   Γ¥î ERROR: King Africa deber├¡a ser ID 45, no 42
+   L├¡nea 2387: Bab Bunny - Yo perreo sola
+   L├¡nea 1868: Bab Bunny - Yo perreo sola
+   L├¡nea 798: Bab Bunny - Yo perreo sola
+   L├¡nea 1969: Bab Bunny - Yo perreo sola
+   L├¡nea 2073: Bab Bunny - Yo perreo sola
+   L├¡nea 2046: Bab Bunny - Yo perreo sola
+   L├¡nea 757: Bab Bunny - Yo perreo sola
+   L├¡nea 2281: Bab Bunny - Yo perreo sola
+   L├¡nea 2513: Bab Bunny - Yo perreo sola
+   L├¡nea 2540: Bab Bunny - Yo perreo sola
+   L├¡nea 1050: Bab Bunny - Yo perreo sola
+   L├¡nea 374: Bab Bunny - Yo perreo sola
+   L├¡nea 922: Bab Bunny - Yo perreo sola
+   L├¡nea 2544: King Africa - Bomba
+   Γ¥î ERROR: King Africa deber├¡a ser ID 45, no 42
+   L├¡nea 2421: Bab Bunny - Yo perreo sola
+   L├¡nea 1173: Bab Bunny - Yo perreo sola
+   L├¡nea 662: Bab Bunny - Yo perreo sola
+   L├¡nea 2437: Bab Bunny - Yo perreo sola
+   L├¡nea 811: Bab Bunny - Yo perreo sola
+   L├¡nea 1234: Bab Bunny - Yo perreo sola
+   L├¡nea 2584: Bab Bunny - Yo perreo sola
+   L├¡nea 774: Bab Bunny - Yo perreo sola
+   L├¡nea 448: Bab Bunny - Yo perreo sola
+   L├¡nea 2187: Bab Bunny - Yo perreo sola
+   L├¡nea 2426: King Africa - Bomba
+   Γ¥î ERROR: King Africa deber├¡a ser ID 45, no 42
+   L├¡nea 2472: Bab Bunny - Yo perreo sola
+   L├¡nea 2378: Bab Bunny - Yo perreo sola
+   L├¡nea 1677: Bab Bunny - Yo perreo sola
+   L├¡nea 2506: King Africa - Bomba
+   Γ¥î ERROR: King Africa deber├¡a ser ID 45, no 42
+   L├¡nea 2247: Bab Bunny - Yo perreo sola
+   L├¡nea 548: Bab Bunny - Yo perreo sola
+   L├¡nea 669: Bab Bunny - Yo perreo sola
+   L├¡nea 1085: Bab Bunny - Yo perreo sola
+   L├¡nea 38: Bab Bunny - Yo perreo sola
+   L├¡nea 842: Bab Bunny - Yo perreo sola
+   L├¡nea 1244: Bab Bunny - Yo perreo sola
+   L├¡nea 1629: Bab Bunny - Yo perreo sola
+   L├¡nea 1702: Bab Bunny - Yo perreo sola
+   L├¡nea 1954: Bab Bunny - Yo perreo sola
+   L├¡nea 535: Bab Bunny - Yo perreo sola
+
+Γ£ô ID 45 encontrado:
+   L├¡nea 899: King Africa - Bomba
+   L├¡nea 2459: King Africa - Bomba
+   L├¡nea 223: King Africa - Bomba
+   L├¡nea 639: King Africa - Bomba
+   L├¡nea 1691: King Africa - Bomba
+   L├¡nea 1035: King Africa - Bomba
+   L├¡nea 2368: King Africa - Bomba
+   L├¡nea 2215: King Africa - Bomba
+   L├¡nea 341: King Africa - Bomba
+   L├¡nea 1451: King Africa - Bomba
+   L├¡nea 149: King Africa - Bomba
+   L├¡nea 2199: King Africa - Bomba
+   L├¡nea 2355: King Africa - Bomba
+   L├¡nea 119: King Africa - Bomba
+   L├¡nea 241: King Africa - Bomba
+   L├¡nea 931: King Africa - Bomba
+   L├¡nea 131: King Africa - Bomba
+   L├¡nea 2004: King Africa - Bomba
+   L├¡nea 1939: King Africa - Bomba
+   L├¡nea 2511: King Africa - Bomba
+   L├¡nea 1679: King Africa - Bomba
+   L├¡nea 653: King Africa - Bomba
+   L├¡nea 15: King Africa - Bomba
+   L├¡nea 1419: King Africa - Bomba
+   L├¡nea 171: King Africa - Bomba
+   L├¡nea 201: King Africa - Bomba
+   L├¡nea 80: King Africa - Bomba
+   L├¡nea 190: King Africa - Bomba
+   L├¡nea 35: King Africa - Bomba
+   L├¡nea 1976: King Africa - Bomba
+   L├¡nea 2231: King Africa - Bomba
+   L├¡nea 1004: King Africa - Bomba
+   L├¡nea 2407: King Africa - Bomba
+   L├¡nea 1716: King Africa - Bomba
+   L├¡nea 48: King Africa - Bomba
+   L├¡nea 1991: King Africa - Bomba
+   L├¡nea 1018: King Africa - Bomba
+   L├¡nea 670: King Africa - Bomba
+   L├¡nea 67: King Africa - Bomba
+   L├¡nea 1953: King Africa - Bomba
+   L├¡nea 327: King Africa - Bomba
+
+====================================================================================================
+RESUMEN
+====================================================================================================
+Total de IDs ├║nicos encontrados: 47
+Rango de IDs: 1 - 48
+IDs faltantes: [46]
+
+====================================================================================================
+FRECUENCIA DE CADA CANCI├ôN
+====================================================================================================
+ID  1: Los Del Rio - La Macarena                          - Aparece  44 veces
+ID  2: La Oreja de Van Gogh - Rosas                       - Aparece  34 veces
+ID  3: El Consorcio - El Chacacha del Tren                - Aparece  46 veces
+ID  4: Coyote Dax - No Rompas M├ís                         - Aparece  44 veces
+ID  5: Isabel Aaiun - El himno de mi pe├▒a                 - Aparece  39 veces
+ID  6: Georgie Dann - La Barbacoa                         - Aparece  37 veces
+ID  7: Raphael - Mi gran noche                            - Aparece  30 veces
+ID  8: Alaska - A quien le importa                        - Aparece  37 veces
+ID  9: Radio Futura - Escuela de Calor                    - Aparece  30 veces
+ID 10: CNCO - Reguet├│n Lento                              - Aparece  37 veces
+ID 11: Baby Lores - La mujer del pelotero                 - Aparece  37 veces
+ID 12: Joaqu├¡n Sabina - Y nos dieron las 10               - Aparece  32 veces
+ID 13: Nino Bravo - Libre                                 - Aparece  34 veces
+ID 14: Don Omar - Danza Kuduro                            - Aparece  33 veces
+ID 15: Pereza - Princesa                                  - Aparece  47 veces
+ID 16: Izal - La Mujer de Verde                           - Aparece  30 veces
+ID 17: Zapato veloz - Tractor amarillo                    - Aparece  44 veces
+ID 18: Amaral - Mis amigos                                - Aparece  41 veces
+ID 19: Myke Towers - Esa Falda                            - Aparece  35 veces
+ID 20: La pegatina - Man├¡ Carmen                          - Aparece  40 veces
+ID 21: Gente de zona - La Gozadera                        - Aparece  48 veces
+ID 22: Daddy Yankee - Gasolina                            - Aparece  12 veces
+ID 23: King Africa - Paquito el Chocolatero               - Aparece  49 veces
+ID 24: El Canto del Loco - Zapatillas                     - Aparece  35 veces
+ID 25: Los refrescos - Aqu├¡ no hay playa                  - Aparece  36 veces
+ID 26: Aitana - Las Babys                                 - Aparece  39 veces
+ID 27: Chocolate Latino - Mayonesa                        - Aparece  36 veces
+ID 28: Shakira - Pa Tipos Como T├║                         - Aparece  65 veces
+ID 29: Luck Ra - La morocha                               - Aparece  37 veces
+ID 30: Jos├⌐ Luis Perales - Un Velero Llamado Libertad     - Aparece  38 veces
+ID 31: Lola Indigo - La reina                             - Aparece  37 veces
+ID 32: Melendi - Caminando por la vida                    - Aparece  33 veces
+ID 33: Proyecto Uno - El Tibur├│n                          - Aparece  40 veces
+ID 34: Estopa - Por la Raja de tu Falda                   - Aparece  43 veces
+ID 35: Las ketchup - Asereje                              - Aparece  38 veces
+ID 36: Karol G - Si antes te hubiera conocido             - Aparece  42 veces
+ID 37: La fiesta - Quiero montarme en tu velero           - Aparece  23 veces
+ID 38: David Civera - Que la detengan                     - Aparece  25 veces
+ID 39: Paulina Rubio - Y yo sigo aqu├¡                     - Aparece  30 veces
+ID 40: Vicco - Nochentera                                 - Aparece  36 veces
+ID 41: Camela - Cuando zarpa el amor                      - Aparece  42 veces
+ID 42: Bab Bunny - Yo perreo sola                         - Aparece  54 veces
+ID 43: El simbolo - Levantando las manos                  - Aparece  41 veces
+ID 44: David Bisbal - Si Tu la Quieres                    - Aparece  42 veces
+ID 45: King Africa - Bomba                                - Aparece  41 veces
+ID 47: Sebastian Yatra - Tacones rojos                    - Aparece  43 veces
+ID 48: Juan Magan - Ayer la vi                            - Aparece  44 veces
