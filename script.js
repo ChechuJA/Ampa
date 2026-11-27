@@ -12,59 +12,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Contact form handling
-const contactForm = document.getElementById('contactForm');
-if (contactForm) {
-    contactForm.addEventListener('submit', function(e) {
-        e.preventDefault();
-        
-        // Get form data
-        const formData = {
-            nombre: document.getElementById('nombre').value,
-            email: document.getElementById('email').value,
-            telefono: document.getElementById('telefono').value,
-            asunto: document.getElementById('asunto').value,
-            mensaje: document.getElementById('mensaje').value
-        };
-        
-        // Validate form
-        if (!formData.nombre || !formData.email || !formData.asunto || !formData.mensaje) {
-            // Show inline error message
-            const errorDiv = document.createElement('div');
-            errorDiv.className = 'form-error';
-            errorDiv.style.cssText = 'color: #f56565; background: #fff5f5; padding: 1rem; border-radius: 8px; margin-top: 1rem; border: 1px solid #feb2b2;';
-            errorDiv.textContent = 'Por favor, completa todos los campos obligatorios.';
-            
-            // Remove any existing error message
-            const existingError = contactForm.querySelector('.form-error');
-            if (existingError) existingError.remove();
-            
-            contactForm.appendChild(errorDiv);
-            setTimeout(() => errorDiv.remove(), 5000);
-            return;
-        }
-        
-        // Show success message
-        const successDiv = document.createElement('div');
-        successDiv.className = 'form-success';
-        successDiv.style.cssText = 'color: #38a169; background: #f0fff4; padding: 1rem; border-radius: 8px; margin-top: 1rem; border: 1px solid #9ae6b4;';
-        successDiv.textContent = '¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.';
-        
-        // Remove any existing messages
-        const existingMessages = contactForm.querySelectorAll('.form-error, .form-success');
-        existingMessages.forEach(msg => msg.remove());
-        
-        contactForm.appendChild(successDiv);
-        setTimeout(() => successDiv.remove(), 5000);
-        
-        // Reset form
-        contactForm.reset();
-        
-        // In a real implementation, you would send this data to a server
-        console.log('Form data:', formData);
-    });
-}
-
 // Add active state to navigation on scroll
 window.addEventListener('scroll', () => {
     let current = '';
@@ -83,15 +30,6 @@ window.addEventListener('scroll', () => {
         if (link.getAttribute('href') === `#${current}`) {
             link.classList.add('active');
         }
-    });
-});
-
-// Gallery image modal (simple version)
-const galleryItems = document.querySelectorAll('.gallery-item');
-galleryItems.forEach(item => {
-    item.addEventListener('click', function() {
-        const text = this.querySelector('.gallery-overlay p').textContent;
-        alert(`Imagen: ${text}\n\nEn una versión completa, aquí se mostraría la imagen en tamaño completo.`);
     });
 });
 
@@ -137,34 +75,6 @@ const footerBottom = document.querySelector('.footer-bottom p');
 if (footerBottom) {
     const currentYear = new Date().getFullYear();
     footerBottom.textContent = `© ${currentYear} AMPA Colegio Peñamiel. Todos los derechos reservados.`;
-}
-
-// Form validation enhancement
-const formInputs = document.querySelectorAll('.contact-form input, .contact-form textarea, .contact-form select');
-formInputs.forEach(input => {
-    input.addEventListener('blur', function() {
-        if (this.hasAttribute('required') && !this.value) {
-            this.style.borderColor = '#f56565';
-        } else {
-            this.style.borderColor = '#e2e8f0';
-        }
-    });
-    
-    input.addEventListener('focus', function() {
-        this.style.borderColor = '#667eea';
-    });
-});
-
-// Email validation
-const emailInput = document.getElementById('email');
-if (emailInput) {
-    emailInput.addEventListener('blur', function() {
-        const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (this.value && !emailPattern.test(this.value)) {
-            this.style.borderColor = '#f56565';
-            // You could add an error message here
-        }
-    });
 }
 
 // Console message

@@ -224,98 +224,33 @@ nav a:hover {
     margin-bottom: 1rem;
 }
 
-/* Cuotas Section */
-.cuotas-content {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 3rem;
-    margin-top: 3rem;
-    align-items: start;
-}
-
-.cuota-card {
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    color: white;
-    padding: 3rem;
-    border-radius: 15px;
-    text-align: center;
-    box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
-}
-
-.cuota-icon {
-    font-size: 4rem;
-    margin-bottom: 1rem;
-}
-
-.cuota-card h3 {
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-}
-
-.precio {
-    font-size: 3rem;
-    font-weight: 700;
-    margin: 1.5rem 0;
-}
-
-.cuota-info {
-    background: white;
+/* AMPA membership */
+.inscripcion-info {
+    max-width: 900px;
+    margin: 3rem auto 0;
     padding: 2.5rem;
+    background: white;
     border-radius: 15px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
-.cuota-info h3 {
-    color: var(--text-dark);
+.inscripcion-info h3 {
     margin-bottom: 1rem;
+    color: var(--text-dark);
     font-size: 1.5rem;
 }
 
-.benefits-list {
-    list-style: none;
-    margin: 1.5rem 0;
+.inscripcion-info p,
+.inscripcion-info ol {
+    color: var(--text-light);
 }
 
-.benefits-list li {
-    padding: 0.8rem 0;
-    border-bottom: 1px solid var(--border-color);
-    font-size: 1.1rem;
+.inscripcion-info ol {
+    padding-left: 1.5rem;
 }
 
-.benefits-list li:last-child {
-    border-bottom: none;
-}
-
-/* Gallery Section */
-.gallery-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
-    margin-top: 3rem;
-}
-
-.gallery-item {
-    height: 250px;
-    border-radius: 15px;
-    overflow: hidden;
-    position: relative;
-    cursor: pointer;
-    transition: transform 0.3s;
-}
-
-.gallery-item:hover {
-    transform: scale(1.05);
-}
-
-.gallery-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
-    color: white;
-    padding: 1.5rem;
-    font-weight: 600;
+.inscripcion-info li {
+    margin-bottom: 0.6rem;
 }
 
 /* Voluntariado Section */
@@ -373,6 +308,10 @@ nav a:hover {
 .volunteer-stats h3 {
     font-size: 3rem;
     font-weight: 700;
+}
+
+.volunteer-contact h3 {
+    font-size: 2rem;
 }
 
 .volunteer-stats p {
@@ -485,6 +424,10 @@ nav a:hover {
     margin-top: 3rem;
 }
 
+.contact-info-only {
+    grid-template-columns: minmax(0, 800px);
+}
+
 .contact-info h3 {
     font-size: 2rem;
     margin-bottom: 1rem;
@@ -507,61 +450,6 @@ nav a:hover {
     color: var(--primary-color);
     display: block;
     margin-bottom: 0.5rem;
-}
-
-.contact-form-container {
-    background: white;
-    padding: 2.5rem;
-    border-radius: 15px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-}
-
-.contact-form .form-group {
-    margin-bottom: 1.5rem;
-}
-
-.contact-form label {
-    display: block;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-    color: var(--text-dark);
-}
-
-.contact-form input,
-.contact-form select,
-.contact-form textarea {
-    width: 100%;
-    padding: 0.8rem;
-    border: 2px solid var(--border-color);
-    border-radius: 8px;
-    font-family: 'Poppins', sans-serif;
-    font-size: 1rem;
-    transition: border-color 0.3s;
-}
-
-.contact-form input:focus,
-.contact-form select:focus,
-.contact-form textarea:focus {
-    outline: none;
-    border-color: var(--primary-color);
-}
-
-.submit-button {
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    color: white;
-    padding: 1rem 2.5rem;
-    border: none;
-    border-radius: 50px;
-    font-size: 1.1rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: transform 0.3s, box-shadow 0.3s;
-    width: 100%;
-}
-
-.submit-button:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
 }
 
 /* Bingo Musical Section */
@@ -719,7 +607,6 @@ footer {
         font-size: 2rem;
     }
     
-    .cuotas-content,
     .voluntariado-content,
     .contact-content {
         grid-template-columns: 1fr;
@@ -732,8 +619,7 @@ footer {
     .news-grid,
     .events-grid,
     .sponsors-grid,
-    .documents-grid,
-    .gallery-grid {
+    .documents-grid {
         grid-template-columns: 1fr;
     }
 }
@@ -753,6 +639,10 @@ footer {
     
     .section {
         padding: 3rem 0;
+    }
+
+    .inscripcion-info {
+        padding: 1.5rem;
     }
     
     .cta-button {
@@ -779,8 +669,7 @@ html {
 }
 
 .news-card,
-.event-card,
-.gallery-item {
+.event-card {
     animation: fadeIn 0.6s ease-in-out;
 }
 

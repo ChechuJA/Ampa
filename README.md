@@ -11,13 +11,13 @@ El sitio está desplegado en GitHub Pages: [https://chechuja.github.io/Ampa/](ht
 - **Inicio**: Página de bienvenida con información sobre el AMPA
 - **Noticias**: Últimas novedades y anuncios
 - **Calendario**: Eventos programados (excursiones, mercadillo navideño, fiesta fin de curso)
-- **Cuotas**: Información sobre las cuotas anuales (2,50 € por niño/a)
-- **Galería**: Fotos de actividades y eventos
+- **Inscripción al AMPA**: Instrucciones para solicitar el formulario en papel al profesorado del centro; no hay inscripción online
 - **Juegos**: Bingo Musical con cartones y canciones descargables
-- **Voluntariado**: Oportunidades para colaborar
+- **Torneo Beyblade X**: Página del torneo infantil, con horario, normas provisionales y cuadro interactivo de demostración en [`/torneo/`](torneo/)
+- **Voluntariado**: Información para colaborar y unirse al grupo de WhatsApp
 - **Patrocinadores**: Empresas que apoyan al AMPA
 - **Documentos**: Enlaces a formularios y documentación importante
-- **Contacto**: Formulario para ponerse en contacto
+- **Contacto**: Correo electrónico y datos pendientes de confirmar
 
 ## � Bingo Musical
 
@@ -40,6 +40,8 @@ El sitio incluye material completo para jugar al Bingo Musical:
 - Navegación intuitiva
 - Animaciones suaves
 
+La página del torneo es estática, como el resto del sitio en GitHub Pages: las inscripciones se realizan en papel el día del evento y el cuadro y la clasificación son una demostración interactiva local. Los cambios no se guardan ni se comparten entre visitantes.
+
 ## 🚀 Despliegue en GitHub Pages
 
 El sitio se despliega automáticamente en GitHub Pages cuando se hace push a la rama principal.
@@ -59,6 +61,7 @@ Ampa/
 ├── index.html                    # Página principal
 ├── styles.css                    # Estilos CSS
 ├── script.js                     # JavaScript para interactividad
+├── torneo/                       # Página, estilos, demo y cartel del torneo
 ├── README.md                     # Este archivo
 ├── CNAME                         # Dominio personalizado
 ├── .nojekyll                     # Evita procesamiento Jekyll
@@ -116,13 +119,14 @@ Busca la sección `<!-- Calendario de Eventos -->` en `index.html` y actualiza l
 
 ### Modificar información de contacto
 
-Edita los datos en la sección `<!-- Formulario de Contacto -->`.
+Edita los datos en la sección `<!-- Información de Contacto -->` de `index.html`. El móvil y el horario de atención están pendientes de confirmación.
 
 ## 💡 Soporte
 
 Para cualquier consulta sobre el sitio web, contacta con el AMPA:
 - 📧 Email: ampa@colegiopenamiel.com
-- 📱 Teléfono: 925 38 00 00
+- 📱 Móvil y horario de atención: pendientes de confirmar
+- 📝 Para inscribirse en el AMPA, solicita el formulario en papel al profesorado del centro
 
 ---
 
